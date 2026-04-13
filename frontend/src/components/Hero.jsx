@@ -39,11 +39,11 @@ const Hero = () => {
             {/* Stats */}
             <div className="flex flex-wrap gap-4">
               <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm border border-gray-200">
-                <Award className="h-5 w-5 text-emerald-600" />
+                <Award className="h-5 w-5 text-blue-600" />
                 <span className="font-semibold text-gray-900">{t.hero.experience}</span>
               </div>
               <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm border border-gray-200">
-                <MapPin className="h-5 w-5 text-emerald-600" />
+                <MapPin className="h-5 w-5 text-blue-600" />
                 <span className="font-medium text-gray-700">{t.hero.location}</span>
               </div>
             </div>
@@ -53,7 +53,7 @@ const Hero = () => {
               <Button
                 onClick={scrollToContact}
                 size="lg"
-                className="bg-emerald-600 hover:bg-emerald-700 text-white"
+                className="bg-blue-600 hover:bg-blue-700 text-white"
               >
                 {t.hero.cta}
               </Button>
@@ -61,7 +61,7 @@ const Hero = () => {
                 onClick={handleDownloadCV}
                 variant="outline"
                 size="lg"
-                className="border-gray-300 hover:border-emerald-600 hover:text-emerald-600"
+                className="border-gray-300 hover:border-blue-600 hover:text-blue-600"
               >
                 <Download className="h-4 w-4 mr-2" />
                 {t.hero.downloadCV}
@@ -88,8 +88,8 @@ const Hero = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-emerald-600 rounded-2xl opacity-20"></div>
-              <div className="absolute -top-4 -left-4 w-24 h-24 bg-blue-600 rounded-2xl opacity-20"></div>
+              <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-blue-600 rounded-2xl opacity-20"></div>
+              <div className="absolute -top-4 -left-4 w-24 h-24 bg-indigo-600 rounded-2xl opacity-20"></div>
             </div>
           </div>
         </div>

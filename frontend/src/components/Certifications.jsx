@@ -18,9 +18,9 @@ const Certifications = () => {
 
         <div className="grid lg:grid-cols-2 gap-12">
           {/* Certifications */}
-          <Card className="p-8 bg-gradient-to-br from-emerald-50 to-white border-gray-200">
+          <Card className="p-8 bg-gradient-to-br from-blue-50 to-white border-gray-200">
             <div className="flex items-center space-x-3 mb-6">
-              <div className="w-12 h-12 bg-emerald-600 rounded-lg flex items-center justify-center">
+              <div className="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center">
                 <Award className="h-6 w-6 text-white" />
               </div>
               <h3 className="text-2xl font-bold text-gray-900">Certifications</h3>
@@ -31,7 +31,7 @@ const Certifications = () => {
                   key={index}
                   className="flex items-start space-x-2 p-3 bg-white rounded-lg hover:shadow-md transition-shadow duration-200"
                 >
-                  <div className="w-2 h-2 bg-emerald-600 rounded-full mt-2 flex-shrink-0"></div>
+                  <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
                   <span className="text-gray-700">{cert}</span>
                 </div>
               ))}

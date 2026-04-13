@@ -22,7 +22,7 @@ const Experience = () => {
               <div className="flex flex-col md:flex-row md:items-start md:justify-between mb-6">
                 <div className="mb-4 md:mb-0">
                   <div className="flex items-center space-x-2 mb-2">
-                    <Briefcase className="h-5 w-5 text-emerald-600" />
+                    <Briefcase className="h-5 w-5 text-blue-600" />
                     <h3 className="text-2xl font-bold text-gray-900">{position.role}</h3>
                   </div>
                   <p className="text-lg font-semibold text-gray-700 mb-2">{position.company}</p>
@@ -38,7 +38,7 @@ const Experience = () => {
                   </div>
                 </div>
                 {index === 0 && (
-                  <Badge className="bg-emerald-600 text-white hover:bg-emerald-700">
+                  <Badge className="bg-blue-600 text-white hover:bg-blue-700">
                     {t.experience.current}
                   </Badge>
                 )}
@@ -47,7 +47,7 @@ const Experience = () => {
               <div className="space-y-2">
                 {position.responsibilities.map((responsibility, idx) => (
                   <div key={idx} className="flex items-start space-x-2">
-                    <div className="w-1.5 h-1.5 bg-emerald-600 rounded-full mt-2 flex-shrink-0"></div>
+                    <div className="w-1.5 h-1.5 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
                     <p className="text-gray-700">{responsibility}</p>
                   </div>
                 ))}

@@ -9,20 +9,21 @@ export const translations = {
       contact: 'Contact'
     },
     hero: {
-      title: 'Environmental Engineer & Process Safety Specialist',
+      title: 'Environmental Engineer & Senior Process Safety Consultant',
       subtitle: 'SEVESO Consultancy | ATEX Compliance | Explosion Protection',
-      experience: '9+ Years of Experience',
+      experience: '11+ Years of Experience',
       location: 'Dublin, Ireland',
       cta: 'Get in Touch',
       downloadCV: 'Download CV'
     },
     about: {
       title: 'About Me',
-      description: 'With over 9 years of specialized experience in environmental engineering and occupational safety, I provide expert consultancy in SEVESO compliance, ATEX regulations, and explosion protection for Upper Tier Seveso sites across Europe. Currently serving as a Risk Consultant at AWN Consulting Ltd., I help companies in chemical production, pharmaceuticals, and manufacturing achieve regulatory compliance while implementing robust process safety management systems.',
+      description: 'With a career inception in 2013, my professional journey has been dedicated to mastering environmental health and safety, particularly within the realms of occupational safety and process safety management. As a Senior Risk Consultant at AWN Consulting Ltd., my focus is on SEVESO consultancy, where my expertise in ATEX Directives, LOPA analysis, and technical report writing plays a pivotal role. I provide specialized risk-based support for major clients including Intel, covering EHS, Process Safety Management, external emergency planning, consequence modelling, and regulatory engagement. My commitment is to continue enhancing safety measures and environmental risk management for chemical, pharmaceutical, and high-hazard industries across Europe.',
       highlights: [
         'SEVESO & COMAH Compliance Specialist',
         'ATEX Equipment Selection & Inspection',
         'Process Safety Management Systems',
+        'LOPA (Layer of Protection Analysis)',
         'Explosion Protection Documentation'
       ]
     },
@@ -73,16 +74,17 @@ export const translations = {
       current: 'Current Position',
       positions: [
         {
-          role: 'Risk Consultant',
+          role: 'Senior Risk Consultant',
           company: 'AWN Consulting Ltd.',
           location: 'Dublin, Ireland',
           period: 'Aug 2023 - Present',
           responsibilities: [
-            'Process Safety and Environmental Risk Consultancy',
-            'SEVESO Consultancy for multiple client sites',
-            'Explosion Protection Document Preparation',
-            'Safety Report Development and Updates',
-            'Significant Modification Assessments'
+            'Process Safety and Environmental Risk Consultancy for high-hazard industries',
+            'SEVESO/COMAH Directive Compliance for Upper and Lower Tier Sites',
+            'Risk-based support for Intel\'s EHS and Process Safety Management',
+            'Explosion Protection Document (EPD) and Safety Report Development',
+            'Consequence modelling and external emergency planning',
+            'Significant Modification Assessments (SMA) for chemical and pharmaceutical facilities'
           ]
         },
         {
@@ -127,9 +129,9 @@ export const translations = {
         'Environmental Officer Certificate'
       ],
       degrees: [
-        "Master's Degree - Occupational Health & Safety (Thesis)",
-        "Master's Degree - Occupational Health & Safety (Non-Thesis)",
-        'B.Sc. Environmental Engineering'
+        "Master's Degree - Occupational Health & Safety (Thesis), Üsküdar University (2018-2020)",
+        "Master's Degree - Occupational Health & Safety (Non-Thesis), Yeni Yüzyıl University (2016-2017)",
+        'B.Sc. Environmental Engineering, Ondokuz Mayıs University (2008-2013)'
       ]
     },
     contact: {

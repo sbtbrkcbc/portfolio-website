@@ -76,14 +76,14 @@ const Contact = () => {
           <div className="space-y-6">
             <Card className="p-6 bg-white border-gray-200 hover:shadow-lg transition-shadow duration-300">
               <div className="flex items-start space-x-4">
-                <div className="w-12 h-12 bg-emerald-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                  <Mail className="h-6 w-6 text-emerald-600" />
+                <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                  <Mail className="h-6 w-6 text-blue-600" />
                 </div>
                 <div>
                   <h3 className="text-lg font-bold text-gray-900 mb-1">{t.contact.email}</h3>
                   <a
                     href="mailto:sabitburakcebeci@gmail.com"
-                    className="text-emerald-600 hover:text-emerald-700 font-medium"
+                    className="text-blue-600 hover:text-blue-700 font-medium"
                   >
                     sabitburakcebeci@gmail.com
                   </a>
@@ -171,7 +171,7 @@ const Contact = () => {
               <Button
                 type="submit"
                 size="lg"
-                className="w-full bg-emerald-600 hover:bg-emerald-700 text-white"
+                className="w-full bg-blue-600 hover:bg-blue-700 text-white"
               >
                 <Send className="h-4 w-4 mr-2" />
                 {t.contact.send}

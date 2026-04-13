@@ -9,6 +9,7 @@ import Services from './components/Services';
 import Expertise from './components/Expertise';
 import Experience from './components/Experience';
 import Certifications from './components/Certifications';
+import Languages from './components/Languages';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -24,6 +25,7 @@ function App() {
           <Expertise />
           <Experience />
           <Certifications />
+          <Languages />
           <Contact />
         </main>
         <Footer />

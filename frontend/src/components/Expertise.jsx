@@ -33,10 +33,10 @@ const Expertise = () => {
             return (
               <div
                 key={index}
-                className="flex items-center space-x-4 p-6 bg-gray-50 rounded-lg hover:bg-emerald-50 transition-colors duration-300 border border-gray-200 hover:border-emerald-200"
+                className="flex items-center space-x-4 p-6 bg-gray-50 rounded-lg hover:bg-blue-50 transition-colors duration-300 border border-gray-200 hover:border-blue-200"
               >
                 <div className="w-12 h-12 bg-white rounded-lg flex items-center justify-center shadow-sm">
-                  <Icon className="h-6 w-6 text-emerald-600" />
+                  <Icon className="h-6 w-6 text-blue-600" />
                 </div>
                 <span className="text-gray-900 font-medium">{industry}</span>
               </div>
@@ -52,6 +52,7 @@ const Expertise = () => {
               'SEVESO Directive',
               'COMAH Regulations',
               'ATEX Directive',
+              'LOPA Analysis',
               'ISO 60079',
               'HAZOP Studies',
               'Risk Assessment',
@@ -60,12 +61,13 @@ const Expertise = () => {
               'ISO 45001',
               'ISO 14001',
               'Process Safety',
-              'Emergency Planning'
+              'Emergency Planning',
+              'GMP Environment'
             ].map((skill, index) => (
               <Badge
                 key={index}
                 variant="secondary"
-                className="px-4 py-2 text-sm bg-gray-100 hover:bg-emerald-100 text-gray-800 border border-gray-300"
+                className="px-4 py-2 text-sm bg-gray-100 hover:bg-blue-100 text-gray-800 border border-gray-300"
               >
                 {skill}
               </Badge>

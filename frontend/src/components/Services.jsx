@@ -36,8 +36,8 @@ const Services = () => {
                 className="p-6 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 bg-white border-gray-200"
               >
                 <div className="mb-4">
-                  <div className="w-12 h-12 bg-emerald-100 rounded-lg flex items-center justify-center">
-                    <Icon className="h-6 w-6 text-emerald-600" />
+                  <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center">
+                    <Icon className="h-6 w-6 text-blue-600" />
                   </div>
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3">
