@@ -22,13 +22,13 @@ export const enIE = {
   
   hero: {
     title: 'Senior Process Safety Consultant',
-    subtitle: 'SEVESO & ATEX Compliance in Ireland',
-    description: 'Expert consultancy for pharmaceutical and chemical industries. Supporting Irish businesses with comprehensive process safety management.',
+    subtitle: 'SEVESO & ATEX Compliance Specialist',
+    description: 'Expert consultancy for pharmaceutical and chemical industries. Comprehensive process safety management and regulatory compliance support.',
     experience: '11+ Years Experience',
-    location: 'Serving Ireland & Europe',
-    cta: 'Book Free Consultation',
+    location: '',
+    cta: 'Get in Touch',
     downloadCV: 'Download CV',
-    trustedBy: 'Trusted by Leading Irish Companies'
+    trustedBy: ''
   },
   
   about: {
@@ -46,14 +46,14 @@ export const enIE = {
   },
   
   services: {
-    title: 'Our Services in Ireland',
+    title: 'Consulting Services',
     subtitle: 'Comprehensive Process Safety Solutions',
     items: [
       {
         slug: 'seveso-consultancy',
         title: 'SEVESO Consultancy',
-        shortDesc: 'Expert guidance for SEVESO compliance in Ireland',
-        description: 'Complete SEVESO consultancy services for Upper and Lower Tier sites in Ireland. We provide safety report preparation, COMAH compliance assessments, and ongoing support to ensure your facility meets all Irish EPA and EU regulatory requirements.',
+        shortDesc: 'Expert guidance for SEVESO compliance',
+        description: 'Complete SEVESO consultancy services for Upper and Lower Tier sites. Safety report preparation, compliance assessments, and ongoing support to ensure your facility meets all EU regulatory requirements.',
         features: [
           'Safety Report Preparation & Updates',
           'COMAH Compliance Assessments',
@@ -65,8 +65,8 @@ export const enIE = {
       {
         slug: 'atex-compliance',
         title: 'ATEX Compliance',
-        shortDesc: 'Complete ATEX solutions for Irish facilities',
-        description: 'Comprehensive ATEX compliance services including equipment certification, hazardous area classification, and site audits. Ensuring your Irish facility meets EU Directive 2014/34/EU requirements.',
+        shortDesc: 'Complete ATEX solutions for industrial facilities',
+        description: 'Comprehensive ATEX compliance services including equipment certification, hazardous area classification, and site audits. Ensuring your facility meets EU Directive 2014/34/EU requirements.',
         features: [
           'ATEX Equipment Selection & Certification',
           'Hazardous Area Classification Reviews',
@@ -78,8 +78,8 @@ export const enIE = {
       {
         slug: 'explosion-protection',
         title: 'Explosion Protection Documentation',
-        shortDesc: 'EPD preparation for Irish sites',
-        description: 'Professional explosion protection document (EPD) preparation and consequence modelling for Irish chemical and pharmaceutical facilities.',
+        shortDesc: 'Professional EPD preparation',
+        description: 'Professional explosion protection document (EPD) preparation and consequence modelling for chemical and pharmaceutical facilities.',
         features: [
           'Explosion Protection Document Preparation',
           'DNV PHAST Consequence Modelling',
@@ -91,8 +91,8 @@ export const enIE = {
       {
         slug: 'process-safety-management',
         title: 'Process Safety Management',
-        shortDesc: 'Robust PSM systems for Irish industries',
-        description: 'Development and implementation of comprehensive Process Safety Management systems tailored for Irish pharmaceutical and chemical operations.',
+        shortDesc: 'Robust PSM systems development',
+        description: 'Development and implementation of comprehensive Process Safety Management systems for pharmaceutical and chemical operations.',
         features: [
           'PSM System Development',
           'HAZOP Studies & LOPA Analysis',
@@ -105,29 +105,29 @@ export const enIE = {
   },
   
   industries: {
-    title: 'Industries We Serve in Ireland',
+    title: 'Industry Experience',
     subtitle: 'Specialized Expertise for High-Regulation Sectors',
     items: [
       {
         slug: 'pharmaceutical',
         title: 'Pharmaceutical Manufacturing',
-        description: 'Specialized process safety consultancy for Irish pharmaceutical manufacturers. With direct experience at Guerbet Ireland and supporting major pharma operations, we understand GMP environments and reactive chemistry safety.',
+        description: 'Specialized process safety consultancy for pharmaceutical manufacturers. Expertise in GMP environments, reactive chemistry safety, and Upper Tier SEVESO compliance.',
         highlights: [
           'GMP Environment Compliance',
           'Reactive Chemistry Safety',
           'Upper Tier SEVESO Support',
           'API Manufacturing Safety',
-          'Irish Regulatory Expertise'
+          'International Regulatory Expertise'
         ]
       },
       {
         slug: 'chemical',
         title: 'Chemical Industry',
-        description: 'Comprehensive safety solutions for Irish chemical manufacturers and processors. Major hazard sites, chemical storage, and COMAH compliance.',
+        description: 'Comprehensive safety solutions for chemical manufacturers and processors. Major hazard sites, chemical storage, and regulatory compliance.',
         highlights: [
           'Major Hazard Site Support',
           'Chemical Storage Safety',
-          'COMAH Compliance',
+          'SEVESO Compliance',
           'Environmental Risk Management',
           'Chemical Process Safety'
         ]

@@ -22,13 +22,13 @@ export const itIT = {
   
   hero: {
     title: 'Consulente Senior Sicurezza di Processo',
-    subtitle: 'Conformità SEVESO e ATEX in Italia',
-    description: 'Consulenza esperta per industrie farmaceutiche e chimiche. Supporto alle aziende italiane con gestione completa della sicurezza di processo.',
+    subtitle: 'Specialista Conformità SEVESO e ATEX',
+    description: 'Consulenza esperta per industrie farmaceutiche e chimiche. Gestione completa della sicurezza di processo e supporto conformità normativa.',
     experience: '11+ Anni di Esperienza',
-    location: 'Servizio per Italia ed Europa',
-    cta: 'Richiedi Consulenza Gratuita',
+    location: '',
+    cta: 'Contattami',
     downloadCV: 'Scarica CV',
-    trustedBy: 'Di Fiducia per Aziende Leader'
+    trustedBy: ''
   },
   
   about: {
@@ -46,14 +46,14 @@ export const itIT = {
   },
   
   services: {
-    title: 'I Nostri Servizi per l\'Italia',
+    title: 'Servizi di Consulenza',
     subtitle: 'Soluzioni Complete per la Sicurezza di Processo',
     items: [
       {
         slug: 'consulenza-seveso',
         title: 'Consulenza SEVESO',
-        shortDesc: 'Guida esperta per la conformità SEVESO in Italia',
-        description: 'Servizi completi di consulenza SEVESO per siti di Soglia Superiore e Inferiore in Italia. Forniamo preparazione rapporti di sicurezza, valutazioni di conformità e supporto continuo per garantire che la vostra struttura soddisfi tutti i requisiti normativi italiani ed europei.',
+        shortDesc: 'Guida esperta per la conformità SEVESO',
+        description: 'Servizi completi di consulenza SEVESO per siti di Soglia Superiore e Inferiore. Preparazione rapporti di sicurezza, valutazioni di conformità e supporto continuo per garantire che la struttura soddisfi tutti i requisiti normativi UE.',
         features: [
           'Preparazione e Aggiornamenti Rapporti di Sicurezza',
           'Valutazioni di Conformità Direttiva SEVESO III',
@@ -65,8 +65,8 @@ export const itIT = {
       {
         slug: 'conformita-atex',
         title: 'Conformità ATEX',
-        shortDesc: 'Soluzioni ATEX complete per impianti italiani',
-        description: 'Servizi completi di conformità ATEX inclusa certificazione apparecchiature, classificazione aree pericolose e audit del sito. Garantire che il vostro impianto italiano soddisfi i requisiti della Direttiva UE 2014/34/UE.',
+        shortDesc: 'Soluzioni ATEX complete per impianti industriali',
+        description: 'Servizi completi di conformità ATEX inclusa certificazione apparecchiature, classificazione aree pericolose e audit del sito. Garantire che l\'impianto soddisfi i requisiti della Direttiva UE 2014/34/UE.',
         features: [
           'Selezione e Certificazione Apparecchiature ATEX',
           'Revisioni Classificazione Aree Pericolose',
@@ -78,8 +78,8 @@ export const itIT = {
       {
         slug: 'protezione-esplosioni',
         title: 'Documentazione Protezione Esplosioni',
-        shortDesc: 'Preparazione EPD per siti italiani',
-        description: 'Preparazione professionale documenti di protezione dalle esplosioni (EPD) e modellazione conseguenze per impianti chimici e farmaceutici italiani.',
+        shortDesc: 'Preparazione professionale EPD',
+        description: 'Preparazione professionale documenti di protezione dalle esplosioni (EPD) e modellazione conseguenze per impianti chimici e farmaceutici.',
         features: [
           'Preparazione Documento Protezione Esplosioni',
           'Modellazione Conseguenze DNV PHAST',
@@ -91,8 +91,8 @@ export const itIT = {
       {
         slug: 'gestione-sicurezza-processo',
         title: 'Gestione Sicurezza di Processo',
-        shortDesc: 'Sistemi PSM robusti per industrie italiane',
-        description: 'Sviluppo e implementazione di sistemi completi di Gestione Sicurezza di Processo su misura per operazioni farmaceutiche e chimiche italiane.',
+        shortDesc: 'Sviluppo sistemi PSM robusti',
+        description: 'Sviluppo e implementazione di sistemi completi di Gestione Sicurezza di Processo per operazioni farmaceutiche e chimiche.',
         features: [
           'Sviluppo Sistema PSM',
           'Studi HAZOP e Analisi LOPA',
@@ -105,25 +105,25 @@ export const itIT = {
   },
   
   industries: {
-    title: 'Settori che Serviamo in Italia',
+    title: 'Esperienza Settoriale',
     subtitle: 'Competenza Specializzata per Settori ad Alta Regolamentazione',
     items: [
       {
         slug: 'farmaceutico',
         title: 'Industria Farmaceutica',
-        description: 'Consulenza specializzata di sicurezza di processo per produttori farmaceutici italiani. Comprendiamo gli ambienti GMP e la sicurezza della chimica reattiva.',
+        description: 'Consulenza specializzata di sicurezza di processo per produttori farmaceutici. Competenza in ambienti GMP, sicurezza della chimica reattiva e conformità SEVESO Soglia Superiore.',
         highlights: [
           'Conformità Ambiente GMP',
           'Sicurezza Chimica Reattiva',
           'Supporto SEVESO Soglia Superiore',
           'Sicurezza Produzione API',
-          'Competenza Normativa Italiana'
+          'Competenza Normativa Internazionale'
         ]
       },
       {
         slug: 'chimico',
         title: 'Industria Chimica',
-        description: 'Soluzioni di sicurezza complete per produttori e processori chimici italiani. Siti a rischio di incidente rilevante, stoccaggio chimico e conformità SEVESO.',
+        description: 'Soluzioni di sicurezza complete per produttori e processori chimici. Siti a rischio di incidente rilevante, stoccaggio chimico e conformità normativa.',
         highlights: [
           'Supporto Siti Rischio Incidente Rilevante',
           'Sicurezza Stoccaggio Chimico',
