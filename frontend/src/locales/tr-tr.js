@@ -17,6 +17,7 @@ export const trTR = {
     services: 'Hizmetler',
     industries: 'Sektörler',
     certifications: 'Sertifikalar',
+    experience: 'Deneyim',
     contact: 'İletişim'
   },
   
@@ -194,5 +195,112 @@ export const trTR = {
     privacy: 'Gizlilik Politikası',
     terms: 'Hizmet Şartları',
     copyright: 'Tüm hakları saklıdır'
+  },
+  
+  experience: {
+    meta: {
+      title: 'Profesyonel Deneyim ve Kariyer',
+      description: 'İlaç ve kimya endüstrilerinde Proses Güvenliği, SEVESO uyumluluğu ve ATEX yönetmeliklerinde 11+ yıllık ilerleyici deneyim.'
+    },
+    title: 'Profesyonel Deneyim',
+    subtitle: 'Proses Güvenliği Mühendisliğinde on yılı aşkın uzman deneyim',
+    responsibilitiesLabel: 'Temel Sorumluluklar ve Başarılar',
+    downloadCTA: {
+      title: 'Tam Özgeçmişi İndir',
+      description: 'Profesyonel deneyimim, sertifikalarım ve teknik uzmanlığımın tüm detaylarını ATS uyumlu PDF formatında edinin.',
+      button: 'CV İndir (PDF)'
+    },
+    items: [
+      {
+        title: 'Risk Danışmanı',
+        company: 'AWN Consulting Ltd.',
+        location: 'Dublin, İrlanda',
+        period: 'Ağustos 2023 – Halen',
+        description: 'İrlanda ve Avrupa genelindeki Üst Kademe Seveso tesisleri için proses güvenliği ve çevresel risk danışmanlığı sağlama. Intel ve önde gelen ilaç üreticileri dahil yüksek profilli müşterilere destek sağlama.',
+        responsibilities: [
+          'Güvenlik raporu hazırlama, önemli modifikasyon değerlendirmeleri ve mevzuat uyumluluk incelemeleri dahil SEVESO danışmanlık hizmetleri yürütme',
+          'DNV PHAST sonuç modelleme yazılımı kullanarak Patlama Koruması Dokümanları (EPD) hazırlama ve güncelleme',
+          'İrlanda EPA ve HSA\'ya teknik rapor yazımı ve mevzuat başvuru desteği sunma',
+          'İlaç ve kimyasal üretim tesisleri için risk tabanlı danışmanlık sağlama',
+          'Çoklu müşteri tesisleri için COMAH Yönetmelikleri 2015 uyumluluğunu sağlama'
+        ],
+        skills: ['SEVESO', 'ATEX', 'DNV PHAST', 'COMAH', 'Teknik Rapor Yazımı']
+      },
+      {
+        title: 'Proses Güvenliği Mühendisi',
+        company: 'Guerbet (İlaç Üretimi)',
+        location: 'Dublin, İrlanda',
+        period: 'Ağustos 2022 – Haziran 2023',
+        description: 'Üst Kademe Seveso ilaç üretim tesisi için Proses Güvenliği Yönetimini yöneterek mevzuat uyumluluğu ve operasyonel güvenlik sağlama.',
+        responsibilities: [
+          'Üst Kademe Seveso tesisi için Proses Güvenliği Yönetim Sistemini geliştirme ve yönetme',
+          'COMAH Yönetmelikleri 2015 kapsamında önemli modifikasyon değerlendirmeleri yürütme',
+          'Tesis Güvenlik Raporu ve Patlama Koruması Dokümanını güncelleme ve sürdürme',
+          'HAZOP ve LOPA çalışmaları dahil Proses Güvenliği Risk Değerlendirmelerini yönetme',
+          'Tesis, proses ve sistem modifikasyonları için Değişiklik Yönetimi (MoC) prosedürlerini yönetme',
+          'ATEX denetim incelemeleri ve sermaye harcama projeleri için EHS desteği sağlama',
+          'Acil Durum Müdahale Ekibi yönetimi ve acil durum planlama faaliyetlerine yardımcı olma'
+        ],
+        skills: ['Proses Güvenliği Yönetimi', 'HAZOP', 'LOPA', 'COMAH', 'ATEX Denetimi']
+      },
+      {
+        title: 'Güvenlik Uzmanı ve Çevre Mühendisi',
+        company: 'Seyir Akademi (Önde Gelen Proses Güvenliği Danışmanlığı)',
+        location: 'İstanbul, Türkiye',
+        period: 'Şubat 2019 – Ekim 2021',
+        description: 'Kimyasal üretim, ilaç ve tarımsal kimyasallar dahil yüksek riskli endüstrilerde 30+ müşteri için SEVESO danışmanlığı sunarak, Avrupa ve Amerikan standartlarını uygulama.',
+        responsibilities: [
+          'Kimyasal, ilaç ve tarımsal kimya endüstrilerinde 30+ müşteri için SEVESO danışmanlığı sağlama',
+          'Avrupa standartlarını uygulayarak Patlama Koruması Dokümanları ve Güvenlik Raporları hazırlama',
+          'ATEX ekipman saha denetimleri, teftişler ve tehlikeli alan sınıflandırma incelemeleri yürütme',
+          'İş güvenliği saha denetimleri ve kapsamlı risk değerlendirmeleri gerçekleştirme',
+          'Büyük tehlike tesisleri için patlama modelleme ve sonuç analizi yönetme',
+          'Patlayıcı atmosfer ekipman seçimi için ISO 60079 standartlarını uygulama'
+        ],
+        skills: ['SEVESO Danışmanlığı', 'Ex Ekipman Denetimi', 'Risk Değerlendirme', 'ISO 60079']
+      },
+      {
+        title: 'Güvenlik Uzmanı',
+        company: 'Momentum OSGB',
+        location: 'Türkiye',
+        period: 'Eylül 2017 – Şubat 2019',
+        description: 'Kimyasal tesisler, inşaat, imalat ve sağlık sektörleri dahil olmak üzere birçok sektörde iş güvenliği uzmanlık danışmanlığı sağlama.',
+        responsibilities: [
+          'Kimyasal tesisler, inşaat, imalat ve sağlık sektörlerinde iş güvenliği uzmanlık danışmanlığı sağlama',
+          'Çevresel risk değerlendirmeleri ve güvenlik uyumluluk denetimleri yürütme',
+          'Kimyasal depolama ve işleme tesisleri için güvenlik yönetim sistemleri geliştirme',
+          'Çeşitli endüstriyel sektörlerde organizasyonel vizyon genişletmeye katkıda bulunma'
+        ],
+        skills: ['İş Güvenliği', 'Çevresel Risk Değerlendirme', 'Uyumluluk Denetimleri']
+      },
+      {
+        title: 'Güvenlik Ölçümü ve Emisyon Raporlama Uzmanı',
+        company: 'Testmer Ölçüm ve Test Hizmetleri Ltd.',
+        location: 'Türkiye',
+        period: 'Temmuz 2016 – Eylül 2017',
+        description: 'İş sağlığı ve güvenliği çevre ölçümleri yürüterek, raporlama süreçlerine bilimsel yöntemler ve uluslararası standartlar uygulama.',
+        responsibilities: [
+          'İş sağlığı ve güvenliği çevre ölçümleri ve maruziyet değerlendirmeleri yürütme',
+          'Uluslararası standartlara uygun emisyon ve koku ölçümü raporları hazırlama',
+          'Raporlama süreçlerine bilimsel hesaplama yöntemleri ve kalite yönetim sistemleri uygulama',
+          'İş güvenliği ölçümlerinde bilimsel yaklaşımları tanıma ve uygulama'
+        ],
+        skills: ['ISO Standartları', 'Emisyon Raporlama', 'Kalite Yönetimi']
+      },
+      {
+        title: 'Çevre Mühendisi',
+        company: 'Metreküp Arıtma Teknolojileri',
+        location: 'Türkiye',
+        period: 'Nisan 2014 – Nisan 2015',
+        description: 'Atık su arıtma tesisleri tasarlama ve çeşitli sektörlerdeki endüstriyel tesisler için çevresel danışmanlık sağlama.',
+        responsibilities: [
+          'Farklı akış hızlarına sahip endüstriyel tesisler için atık su arıtma tesisleri tasarlama',
+          'Çeşitli sektörlerdeki 13 fabrika için su arıtma danışmanlığı sağlama',
+          'Su içi analiz, raporlama ve yerinde inşaat yönetimi yürütme',
+          'Parametre analizi ve düzeltmeler yoluyla atık suyun sağlıklı deşarjını sağlama'
+        ],
+        skills: ['Atık Su Arıtma Tasarımı', 'Çevre Danışmanlığı', 'Su Analizi']
+      }
+    ]
   }
 };

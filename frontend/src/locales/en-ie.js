@@ -17,6 +17,7 @@ export const enIE = {
     services: 'Services',
     industries: 'Industries',
     certifications: 'Certifications',
+    experience: 'Experience',
     contact: 'Contact'
   },
   
@@ -194,5 +195,112 @@ export const enIE = {
     privacy: 'Privacy Policy',
     terms: 'Terms of Service',
     copyright: 'All rights reserved'
+  },
+  
+  experience: {
+    meta: {
+      title: 'Professional Experience & Career',
+      description: '11+ years of progressive experience in Process Safety, SEVESO compliance, and ATEX regulations across pharmaceutical and chemical industries.'
+    },
+    title: 'Professional Experience',
+    subtitle: 'Over a decade of specialized expertise in Process Safety Engineering',
+    responsibilitiesLabel: 'Key Responsibilities & Achievements',
+    downloadCTA: {
+      title: 'Download Complete CV',
+      description: 'Get the full details of my professional experience, certifications, and technical expertise in ATS-friendly PDF format.',
+      button: 'Download CV (PDF)'
+    },
+    items: [
+      {
+        title: 'Risk Consultant',
+        company: 'AWN Consulting Ltd.',
+        location: 'Dublin, Ireland',
+        period: 'August 2023 – Present',
+        description: 'Providing process safety and environmental risk consultancy for Upper Tier Seveso sites across Ireland and Europe. Supporting high-profile clients including Intel and leading pharmaceutical manufacturers.',
+        responsibilities: [
+          'Conduct SEVESO consultancy services including safety report preparation, significant modification assessments, and regulatory compliance reviews',
+          'Prepare and update Explosion Protection Documents (EPD) using DNV PHAST consequence modelling software',
+          'Deliver technical report writing and regulatory submission support to Irish EPA and HSA',
+          'Provide risk-based consultancy for pharmaceutical and chemical manufacturing facilities',
+          'Ensure COMAH Regulations 2015 compliance for multiple client sites'
+        ],
+        skills: ['SEVESO', 'ATEX', 'DNV PHAST', 'COMAH', 'Technical Report Writing']
+      },
+      {
+        title: 'Process Safety Engineer',
+        company: 'Guerbet (Pharmaceutical Manufacturing)',
+        location: 'Dublin, Ireland',
+        period: 'August 2022 – June 2023',
+        description: 'Led Process Safety Management for an Upper Tier Seveso pharmaceutical manufacturing site, ensuring regulatory compliance and operational safety.',
+        responsibilities: [
+          'Developed and led the Process Safety Management System for an Upper Tier Seveso site',
+          'Conducted significant modification assessments under COMAH Regulations 2015',
+          'Updated and maintained site Safety Report and Explosion Protection Document',
+          'Led Process Safety Risk Assessments including HAZOP and LOPA studies',
+          'Managed Management of Change (MoC) procedures for plant, process, and system modifications',
+          'Provided ATEX inspection reviews and EHS support for capital expenditure projects',
+          'Assisted Emergency Response Team management and emergency planning activities'
+        ],
+        skills: ['Process Safety Management', 'HAZOP', 'LOPA', 'COMAH', 'ATEX Inspection']
+      },
+      {
+        title: 'Safety Specialist & Environmental Engineer',
+        company: 'Seyir Akademi (Leading Process Safety Consultancy)',
+        location: 'Istanbul, Turkey',
+        period: 'February 2019 – October 2021',
+        description: 'Delivered SEVESO consultancy for 30+ clients in high-risk industries including chemical production, pharmaceuticals, and agricultural chemicals, applying European and American standards.',
+        responsibilities: [
+          'Provided SEVESO consultancy for 30+ clients in chemical, pharmaceutical, and agricultural chemical industries',
+          'Prepared Explosion Protection Documents and Safety Reports applying European standards',
+          'Conducted ATEX equipment site audits, inspections, and hazardous area classification reviews',
+          'Performed occupational safety field audits and comprehensive risk assessments',
+          'Managed explosion modeling and consequence analysis for major hazard sites',
+          'Applied ISO 60079 standards for explosive atmosphere equipment selection'
+        ],
+        skills: ['SEVESO Consultancy', 'Ex Equipment Inspection', 'Risk Assessment', 'ISO 60079']
+      },
+      {
+        title: 'Safety Specialist',
+        company: 'Momentum OSGB',
+        location: 'Turkey',
+        period: 'September 2017 – February 2019',
+        description: 'Provided occupational safety expertise consultancy across multiple industries including chemical plants, construction, manufacturing, and healthcare sectors.',
+        responsibilities: [
+          'Delivered occupational safety expertise consultancy across chemical plants, construction, manufacturing, and healthcare',
+          'Conducted environmental risk assessments and safety compliance audits',
+          'Developed safety management systems for chemical storage and processing facilities',
+          'Helped expand organizational vision across diverse industrial sectors'
+        ],
+        skills: ['Occupational Safety', 'Environmental Risk Assessment', 'Compliance Audits']
+      },
+      {
+        title: 'Safety Measurement & Emission Reporting Specialist',
+        company: 'Testmer Measurement And Testing Services Ltd.',
+        location: 'Turkey',
+        period: 'July 2016 – September 2017',
+        description: 'Conducted occupational health and safety environment measurements, applying scientific methods and international standards to reporting processes.',
+        responsibilities: [
+          'Conducted occupational health and safety environment measurements and exposure assessments',
+          'Prepared emission and odor measurement reports in accordance with international standards',
+          'Applied scientific calculation methods and quality management systems to reporting processes',
+          'Recognized and implemented scientific approaches in occupational safety measurements'
+        ],
+        skills: ['ISO Standards', 'Emission Reporting', 'Quality Management']
+      },
+      {
+        title: 'Environmental Engineer',
+        company: 'Metreküp Treatment Technologies',
+        location: 'Turkey',
+        period: 'April 2014 – April 2015',
+        description: 'Designed wastewater treatment plants and provided environmental consultancy for industrial facilities across various sectors.',
+        responsibilities: [
+          'Designed wastewater treatment plants for industrial facilities with different flow rates',
+          'Provided water treatment consultancy for 13 factories across various industries',
+          'Conducted in-water analysis, reporting, and on-site construction management',
+          'Ensured healthy discharge of wastewater through parameter analysis and corrections'
+        ],
+        skills: ['Wastewater Treatment Design', 'Environmental Consultancy', 'Water Analysis']
+      }
+    ]
   }
 };

@@ -16,6 +16,7 @@ import ServiceDetailPage from './pages/ServiceDetailPage';
 import IndustriesPage from './pages/IndustriesPage';
 import IndustryDetailPage from './pages/IndustryDetailPage';
 import CertificationsPage from './pages/CertificationsPage';
+import ExperiencePage from './pages/ExperiencePage';
 import ContactPage from './pages/ContactPage';
 
 function App() {
@@ -52,6 +53,10 @@ function App() {
               <Route path="certifications" element={<CertificationsPage />} />
               <Route path="certificazioni" element={<CertificationsPage />} />
               <Route path="sertifikalar" element={<CertificationsPage />} />
+              
+              <Route path="experience" element={<ExperiencePage />} />
+              <Route path="esperienza" element={<ExperiencePage />} />
+              <Route path="deneyim" element={<ExperiencePage />} />
               
               <Route path="contact" element={<ContactPage />} />
               <Route path="contatti" element={<ContactPage />} />

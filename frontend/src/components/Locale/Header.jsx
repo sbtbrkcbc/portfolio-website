@@ -49,6 +49,9 @@ const Header = () => {
             <Link to={getNavLink(locale === 'it-it' ? '/certificazioni' : locale === 'tr-tr' ? '/sertifikalar' : '/certifications')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.certifications}
             </Link>
+            <Link to={getNavLink(locale === 'it-it' ? '/esperienza' : locale === 'tr-tr' ? '/deneyim' : '/experience')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+              {t.nav.experience}
+            </Link>
             <Link to={getNavLink(locale === 'it-it' ? '/contatti' : locale === 'tr-tr' ? '/iletisim' : '/contact')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.contact}
             </Link>
@@ -117,19 +120,22 @@ const Header = () => {
 
         {mobileMenuOpen && (
           <nav className="md:hidden py-4 space-y-2 border-t border-gray-200">
-            <Link to={getNavLink(locale === 'it-it' ? '/chi-sono' : '/about')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
+            <Link to={getNavLink(locale === 'it-it' ? '/chi-sono' : locale === 'tr-tr' ? '/hakkimda' : '/about')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
               {t.nav.about}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/servizi' : '/services')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
+            <Link to={getNavLink(locale === 'it-it' ? '/servizi' : locale === 'tr-tr' ? '/hizmetler' : '/services')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
               {t.nav.services}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/settori' : '/industries')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
+            <Link to={getNavLink(locale === 'it-it' ? '/settori' : locale === 'tr-tr' ? '/sektorler' : '/industries')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
               {t.nav.industries}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/certificazioni' : '/certifications')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
+            <Link to={getNavLink(locale === 'it-it' ? '/certificazioni' : locale === 'tr-tr' ? '/sertifikalar' : '/certifications')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
               {t.nav.certifications}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/contatti' : '/contact')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
+            <Link to={getNavLink(locale === 'it-it' ? '/esperienza' : locale === 'tr-tr' ? '/deneyim' : '/experience')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
+              {t.nav.experience}
+            </Link>
+            <Link to={getNavLink(locale === 'it-it' ? '/contatti' : locale === 'tr-tr' ? '/iletisim' : '/contact')} className="block px-4 py-2 text-gray-700 hover:bg-gray-50 rounded-md" onClick={() => setMobileMenuOpen(false)}>
               {t.nav.contact}
             </Link>
           </nav>

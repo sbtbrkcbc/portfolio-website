@@ -17,6 +17,7 @@ export const itIT = {
     services: 'Servizi',
     industries: 'Settori',
     certifications: 'Certificazioni',
+    experience: 'Esperienza',
     contact: 'Contatti'
   },
   
@@ -194,5 +195,112 @@ export const itIT = {
     privacy: 'Privacy Policy',
     terms: 'Termini di Servizio',
     copyright: 'Tutti i diritti riservati'
+  },
+  
+  experience: {
+    meta: {
+      title: 'Esperienza Professionale e Carriera',
+      description: 'Oltre 11 anni di esperienza progressiva in Sicurezza di Processo, conformità SEVESO e normative ATEX nelle industrie farmaceutiche e chimiche.'
+    },
+    title: 'Esperienza Professionale',
+    subtitle: 'Oltre un decennio di competenza specializzata in Ingegneria della Sicurezza di Processo',
+    responsibilitiesLabel: 'Responsabilità Principali e Risultati',
+    downloadCTA: {
+      title: 'Scarica CV Completo',
+      description: 'Ottieni tutti i dettagli della mia esperienza professionale, certificazioni e competenze tecniche in formato PDF compatibile ATS.',
+      button: 'Scarica CV (PDF)'
+    },
+    items: [
+      {
+        title: 'Consulente del Rischio',
+        company: 'AWN Consulting Ltd.',
+        location: 'Dublino, Irlanda',
+        period: 'Agosto 2023 – Presente',
+        description: 'Fornitura di consulenza sulla sicurezza di processo e rischio ambientale per siti Seveso di Soglia Superiore in Irlanda e Europa. Supporto a clienti di alto profilo inclusi Intel e principali produttori farmaceutici.',
+        responsibilities: [
+          'Conduzione servizi di consulenza SEVESO inclusa preparazione rapporti di sicurezza, valutazioni modifiche significative e revisioni conformità normativa',
+          'Preparazione e aggiornamento Documenti di Protezione Esplosioni (EPD) utilizzando software modellazione conseguenze DNV PHAST',
+          'Fornitura redazione report tecnici e supporto presentazioni normative a EPA e HSA irlandesi',
+          'Consulenza basata sul rischio per strutture produzione farmaceutica e chimica',
+          'Garanzia conformità Regolamenti COMAH 2015 per più siti clienti'
+        ],
+        skills: ['SEVESO', 'ATEX', 'DNV PHAST', 'COMAH', 'Redazione Report Tecnici']
+      },
+      {
+        title: 'Ingegnere Sicurezza di Processo',
+        company: 'Guerbet (Produzione Farmaceutica)',
+        location: 'Dublino, Irlanda',
+        period: 'Agosto 2022 – Giugno 2023',
+        description: 'Gestione Sicurezza di Processo per sito produzione farmaceutica Seveso Soglia Superiore, garantendo conformità normativa e sicurezza operativa.',
+        responsibilities: [
+          'Sviluppo e gestione Sistema di Gestione Sicurezza di Processo per sito Seveso Soglia Superiore',
+          'Conduzione valutazioni modifiche significative secondo Regolamenti COMAH 2015',
+          'Aggiornamento e manutenzione Rapporto Sicurezza sito e Documento Protezione Esplosioni',
+          'Gestione Valutazioni Rischio Sicurezza Processo inclusi studi HAZOP e LOPA',
+          'Gestione procedure Gestione del Cambiamento (MoC) per modifiche impianto, processo e sistema',
+          'Fornitura revisioni ispezioni ATEX e supporto EHS per progetti investimento capitale',
+          'Assistenza gestione Team Risposta Emergenze e attività pianificazione emergenze'
+        ],
+        skills: ['Gestione Sicurezza Processo', 'HAZOP', 'LOPA', 'COMAH', 'Ispezione ATEX']
+      },
+      {
+        title: 'Specialista Sicurezza e Ingegnere Ambientale',
+        company: 'Seyir Akademi (Consulenza Leader Sicurezza Processo)',
+        location: 'Istanbul, Turchia',
+        period: 'Febbraio 2019 – Ottobre 2021',
+        description: 'Consulenza SEVESO fornita per oltre 30 clienti in industrie ad alto rischio inclusa produzione chimica, farmaceutica e chimica agricola, applicando standard europei e americani.',
+        responsibilities: [
+          'Consulenza SEVESO fornita per oltre 30 clienti in industrie chimica, farmaceutica e chimica agricola',
+          'Preparazione Documenti Protezione Esplosioni e Rapporti Sicurezza applicando standard europei',
+          'Conduzione audit sito apparecchiature ATEX, ispezioni e revisioni classificazione aree pericolose',
+          'Esecuzione audit campo sicurezza occupazionale e valutazioni rischio complete',
+          'Gestione modellazione esplosioni e analisi conseguenze per siti rischio incidente rilevante',
+          'Applicazione standard ISO 60079 per selezione apparecchiature atmosfere esplosive'
+        ],
+        skills: ['Consulenza SEVESO', 'Ispezione Ex Equipment', 'Valutazione Rischio', 'ISO 60079']
+      },
+      {
+        title: 'Specialista Sicurezza',
+        company: 'Momentum OSGB',
+        location: 'Turchia',
+        period: 'Settembre 2017 – Febbraio 2019',
+        description: 'Consulenza competenza sicurezza occupazionale fornita attraverso molteplici industrie inclusi impianti chimici, costruzione, produzione e settori sanitari.',
+        responsibilities: [
+          'Consulenza competenza sicurezza occupazionale fornita attraverso impianti chimici, costruzione, produzione e sanità',
+          'Conduzione valutazioni rischio ambientale e audit conformità sicurezza',
+          'Sviluppo sistemi gestione sicurezza per strutture stoccaggio e lavorazione chimica',
+          'Contributo espansione visione organizzativa attraverso diversi settori industriali'
+        ],
+        skills: ['Sicurezza Occupazionale', 'Valutazione Rischio Ambientale', 'Audit Conformità']
+      },
+      {
+        title: 'Specialista Misurazione Sicurezza e Reporting Emissioni',
+        company: 'Testmer Measurement And Testing Services Ltd.',
+        location: 'Turchia',
+        period: 'Luglio 2016 – Settembre 2017',
+        description: 'Conduzione misurazioni ambiente salute e sicurezza occupazionale, applicando metodi scientifici e standard internazionali ai processi reporting.',
+        responsibilities: [
+          'Conduzione misurazioni ambiente salute e sicurezza occupazionale e valutazioni esposizione',
+          'Preparazione report misurazione emissioni e odori secondo standard internazionali',
+          'Applicazione metodi calcolo scientifico e sistemi gestione qualità ai processi reporting',
+          'Riconoscimento e implementazione approcci scientifici nelle misurazioni sicurezza occupazionale'
+        ],
+        skills: ['Standard ISO', 'Reporting Emissioni', 'Gestione Qualità']
+      },
+      {
+        title: 'Ingegnere Ambientale',
+        company: 'Metreküp Treatment Technologies',
+        location: 'Turchia',
+        period: 'Aprile 2014 – Aprile 2015',
+        description: 'Progettazione impianti trattamento acque reflue e consulenza ambientale fornita per strutture industriali attraverso vari settori.',
+        responsibilities: [
+          'Progettazione impianti trattamento acque reflue per strutture industriali con diverse portate',
+          'Consulenza trattamento acque fornita per 13 fabbriche attraverso varie industrie',
+          'Conduzione analisi in-water, reporting e gestione costruzione on-site',
+          'Garanzia scarico sano acque reflue attraverso analisi parametri e correzioni'
+        ],
+        skills: ['Progettazione Trattamento Acque Reflue', 'Consulenza Ambientale', 'Analisi Acque']
+      }
+    ]
   }
 };
