@@ -6,9 +6,9 @@ export const trTR = {
   address: 'Dublin, İrlanda',
   
   meta: {
-    siteTitle: 'SEVESO ve ATEX Süreç Güvenliği Danışmanı | Sabit Burak Cebeci',
+    siteTitle: 'SEVESO ve ATEX Proses Güvenliği Danışmanı | Sabit Burak Cebeci',
     siteDescription: 'İlaç ve kimya endüstrisi için uzman SEVESO danışmanlığı ve ATEX uyumluluğu. 11+ yıl uluslararası deneyim.',
-    keywords: 'SEVESO danışmanı, ATEX uyumluluğu, süreç güvenliği danışmanı, patlama koruması, çevre mühendisi'
+    keywords: 'SEVESO danışmanı, ATEX uyumluluğu, proses güvenliği danışmanı, patlama koruması, çevre mühendisi'
   },
   
   nav: {
@@ -21,9 +21,9 @@ export const trTR = {
   },
   
   hero: {
-    title: 'Kıdemli Süreç Güvenliği Danışmanı',
+    title: 'Kıdemli Proses Güvenliği Danışmanı',
     subtitle: 'SEVESO ve ATEX Uyumluluk Uzmanı',
-    description: 'İlaç ve kimya endüstrileri için uzman danışmanlık. Kapsamlı süreç güvenliği yönetimi ve düzenleyici uyumluluk desteği.',
+    description: 'İlaç ve kimya endüstrileri için uzman danışmanlık. Kapsamlı proses güvenliği yönetimi ve düzenleyici uyumluluk desteği.',
     experience: '11+ Yıl Deneyim',
     location: '',
     cta: 'İletişime Geçin',
@@ -33,12 +33,12 @@ export const trTR = {
   
   about: {
     title: 'Hakkımda',
-    subtitle: 'Süreç Güvenliği Ortağınız',
+    subtitle: 'Proses Güvenliği Ortağınız',
     description: '2013 yılında başlayan kariyerimde, çevre sağlığı ve güvenliği alanında uzmanlaşmaya odaklandım. AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak SEVESO danışmanlığı konusunda uzmanlaşmış durumdayım. ATEX Direktifleri, LOPA analizi ve teknik rapor yazımı konusundaki uzmanlığım, tesislerinizin tüm uluslararası uyumluluk gereksinimlerini karşılamasını sağlar.',
     highlights: [
       'SEVESO ve COMAH Uyumluluk Uzmanı',
       'ATEX Ekipman Seçimi ve Denetimi',
-      'Süreç Güvenliği Yönetim Sistemleri',
+      'Proses Güvenliği Yönetim Sistemleri',
       'LOPA (Layer of Protection Analysis)',
       'Uluslararası İlaç ve Kimya Endüstrisi Desteği'
     ],
@@ -47,7 +47,7 @@ export const trTR = {
   
   services: {
     title: 'Danışmanlık Hizmetleri',
-    subtitle: 'Kapsamlı Süreç Güvenliği Çözümleri',
+    subtitle: 'Kapsamlı Proses Güvenliği Çözümleri',
     items: [
       {
         slug: 'seveso-danismanligi',
@@ -89,16 +89,16 @@ export const trTR = {
         ]
       },
       {
-        slug: 'surec-guvenligi-yonetimi',
-        title: 'Süreç Güvenliği Yönetimi',
+        slug: 'proses-guvenligi-yonetimi',
+        title: 'Proses Güvenliği Yönetimi',
         shortDesc: 'Güçlü PSM sistemleri geliştirme',
-        description: 'İlaç ve kimya operasyonları için kapsamlı Süreç Güvenliği Yönetim sistemlerinin geliştirilmesi ve uygulanması.',
+        description: 'İlaç ve kimya operasyonları için kapsamlı Proses Güvenliği Yönetim sistemlerinin geliştirilmesi ve uygulanması.',
         features: [
           'PSM Sistem Geliştirme',
           'HAZOP Çalışmaları ve LOPA Analizi',
           'Güvenlik Enstrümante Sistemleri (SIS)',
           'Değişiklik Yönetimi Prosedürleri',
-          'Süreç Güvenliği Kültürü Geliştirme'
+          'Proses Güvenliği Kültürü Geliştirme'
         ]
       }
     ]
@@ -111,7 +111,7 @@ export const trTR = {
       {
         slug: 'ilac',
         title: 'İlaç İmalatı',
-        description: 'İlaç üreticileri için özel süreç güvenliği danışmanlığı. GMP ortamları, reaktif kimya güvenliği ve Üst Kademe SEVESO uyumluluğu konusunda uzmanlık.',
+        description: 'İlaç üreticileri için özel proses güvenliği danışmanlığı. GMP ortamları, reaktif kimya güvenliği ve Üst Kademe SEVESO uyumluluğu konusunda uzmanlık.',
         highlights: [
           'GMP Ortam Uyumluluğu',
           'Reaktif Kimya Güvenliği',
@@ -129,7 +129,7 @@ export const trTR = {
           'Kimyasal Depolama Güvenliği',
           'SEVESO Uyumluluğu',
           'Çevresel Risk Yönetimi',
-          'Kimyasal Süreç Güvenliği'
+          'Kimyasal Proses Güvenliği'
         ]
       }
     ]
@@ -164,8 +164,8 @@ export const trTR = {
   
   contact: {
     title: 'İletişime Geçin',
-    subtitle: 'Süreç güvenliği gereksinimlerinizi görüşelim',
-    description: 'Avrupa genelinde danışmanlık projeleri için müsait. SEVESO, ATEX veya süreç güvenliği yönetimi ihtiyaçlarınızı görüşmek için benimle iletişime geçin.',
+    subtitle: 'Proses güvenliği gereksinimlerinizi görüşelim',
+    description: 'Avrupa genelinde danışmanlık projeleri için müsait. SEVESO, ATEX veya proses güvenliği yönetimi ihtiyaçlarınızı görüşmek için benimle iletişime geçin.',
     form: {
       name: 'İsim',
       email: 'E-posta',
@@ -186,7 +186,7 @@ export const trTR = {
   },
   
   footer: {
-    tagline: 'Süreç Güvenliği ve Çevre Danışmanlığı',
+    tagline: 'Proses Güvenliği ve Çevre Danışmanlığı',
     services: 'Hizmetler',
     industries: 'Sektörler',
     company: 'Şirket',
