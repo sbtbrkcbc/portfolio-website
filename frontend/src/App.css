@@ -1,0 +1,26 @@
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Remove default margins */
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+/* Smooth transitions for interactive elements */
+button, a {
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+/* Focus visible for accessibility */
+*:focus-visible {
+    outline: 2px solid #059669;
+    outline-offset: 2px;
+}
