@@ -14,6 +14,7 @@ const Header = () => {
   const locales = [
     { code: 'en-ie', label: 'English (Ireland)', flag: '🇮🇪' },
     { code: 'it-it', label: 'Italiano (Italia)', flag: '🇮🇹' },
+    { code: 'tr-tr', label: 'Türkçe (Türkiye)', flag: '🇹🇷' },
     { code: 'en', label: 'English (Europe)', flag: '🇪🇺' }
   ];
 
@@ -36,19 +37,19 @@ const Header = () => {
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
-            <Link to={getNavLink(locale === 'it-it' ? '/chi-sono' : '/about')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <Link to={getNavLink(locale === 'it-it' ? '/chi-sono' : locale === 'tr-tr' ? '/hakkimda' : '/about')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.about}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/servizi' : '/services')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <Link to={getNavLink(locale === 'it-it' ? '/servizi' : locale === 'tr-tr' ? '/hizmetler' : '/services')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.services}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/settori' : '/industries')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <Link to={getNavLink(locale === 'it-it' ? '/settori' : locale === 'tr-tr' ? '/sektorler' : '/industries')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.industries}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/certificazioni' : '/certifications')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <Link to={getNavLink(locale === 'it-it' ? '/certificazioni' : locale === 'tr-tr' ? '/sertifikalar' : '/certifications')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.certifications}
             </Link>
-            <Link to={getNavLink(locale === 'it-it' ? '/contatti' : '/contact')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
+            <Link to={getNavLink(locale === 'it-it' ? '/contatti' : locale === 'tr-tr' ? '/iletisim' : '/contact')} className="text-gray-700 hover:text-blue-600 transition-colors font-medium">
               {t.nav.contact}
             </Link>
 

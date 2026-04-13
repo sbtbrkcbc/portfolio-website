@@ -39,6 +39,7 @@ const SEOHead = ({
       {/* Hreflang */}
       <link rel="alternate" hrefLang="en-IE" href={getAlternateUrl('en-ie')} />
       <link rel="alternate" hrefLang="it-IT" href={getAlternateUrl('it-it')} />
+      <link rel="alternate" hrefLang="tr-TR" href={getAlternateUrl('tr-tr')} />
       <link rel="alternate" hrefLang="en" href={getAlternateUrl('en')} />
       <link rel="alternate" hrefLang="x-default" href={getAlternateUrl('en')} />
       

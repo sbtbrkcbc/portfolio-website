@@ -2,12 +2,14 @@ import React, { createContext, useContext } from 'react';
 import { useParams } from 'react-router-dom';
 import { enIE } from '../locales/en-ie';
 import { itIT } from '../locales/it-it';
+import { trTR } from '../locales/tr-tr';
 
 const LocaleContext = createContext();
 
 const locales = {
   'en-ie': enIE,
   'it-it': itIT,
+  'tr-tr': trTR,
   'en': enIE // fallback
 };
 
