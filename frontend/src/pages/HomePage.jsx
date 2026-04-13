@@ -44,10 +44,13 @@ const HomePage = () => {
               </div>
 
               <div className="flex flex-wrap gap-4">
-                <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm border border-gray-200">
-                  <Award className="h-5 w-5 text-blue-600" />
-                  <span className="font-semibold text-gray-900">{t.hero.experience}</span>
-                </div>
+                <Link 
+                  to={`/${locale}/${locale === 'it-it' ? 'esperienza' : locale === 'tr-tr' ? 'deneyim' : 'experience'}`}
+                  className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm border border-gray-200 hover:border-[#0F2A4D] hover:shadow-md transition-all duration-200 cursor-pointer group"
+                >
+                  <Award className="h-5 w-5 text-[#0F2A4D] group-hover:scale-110 transition-transform" />
+                  <span className="font-semibold text-gray-900 group-hover:text-[#0F2A4D]">{t.hero.experience}</span>
+                </Link>
                 <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm border border-gray-200">
                   <MapPin className="h-5 w-5 text-blue-600" />
                   <span className="font-medium text-gray-700">{t.hero.location}</span>

@@ -25,7 +25,7 @@ export const trTR = {
     title: 'Kıdemli Proses Güvenliği Danışmanı',
     subtitle: 'SEVESO ve ATEX Uyumluluk Uzmanı',
     description: 'İlaç ve kimya endüstrileri için uzman danışmanlık. Kapsamlı proses güvenliği yönetimi ve düzenleyici uyumluluk desteği.',
-    experience: '11+ Yıl Deneyim',
+    experience: '13+ Yıl Deneyim',
     location: '',
     cta: 'İletişime Geçin',
     downloadCV: 'CV İndir',

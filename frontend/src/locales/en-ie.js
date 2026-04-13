@@ -25,7 +25,7 @@ export const enIE = {
     title: 'Senior Process Safety Consultant',
     subtitle: 'SEVESO & ATEX Compliance Specialist',
     description: 'Expert consultancy for pharmaceutical and chemical industries. Comprehensive process safety management and regulatory compliance support.',
-    experience: '11+ Years Experience',
+    experience: '13+ Years Experience',
     location: '',
     cta: 'Get in Touch',
     downloadCV: 'Download CV',

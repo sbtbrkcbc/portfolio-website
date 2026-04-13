@@ -37,7 +37,7 @@ def create_cv(filename, language='en'):
             'linkedin': 'linkedin.com/in/sbtbrkcbc',
             
             'profile_title': 'PROFESSIONAL PROFILE',
-            'profile': 'Senior Environmental Engineer and Process Safety Specialist with 11+ years of progressive experience in SEVESO compliance, ATEX regulations, and explosion protection for Upper Tier Seveso sites. Proven expertise in developing Process Safety Management systems, conducting HAZOP studies, and delivering risk-based consultancy for pharmaceutical and chemical industries. Strong technical background in consequence modelling (DNV PHAST, Gexcon), regulatory compliance (COMAH, EU Directives), and safety report preparation. Currently serving high-profile international clients including Intel and leading pharmaceutical manufacturers.',
+            'profile': 'Senior Environmental Engineer and Process Safety Specialist with 13+ years of progressive experience in SEVESO compliance, ATEX regulations, and explosion protection for Upper Tier Seveso sites. Proven expertise in developing Process Safety Management systems, conducting HAZOP studies, and delivering risk-based consultancy for pharmaceutical and chemical industries. Strong technical background in consequence modelling (DNV PHAST, Gexcon), regulatory compliance (COMAH, EU Directives), and safety report preparation. Currently serving high-profile international clients including Intel and leading pharmaceutical manufacturers.',
             
             'competencies_title': 'CORE COMPETENCIES',
             'competencies': [
@@ -193,7 +193,7 @@ def create_cv(filename, language='en'):
             'linkedin': 'linkedin.com/in/sbtbrkcbc',
             
             'profile_title': 'PROFILO PROFESSIONALE',
-            'profile': 'Ingegnere Ambientale Senior e Specialista della Sicurezza di Processo con oltre 11 anni di esperienza progressiva in conformità SEVESO, normative ATEX e protezione dalle esplosioni per siti Seveso di Soglia Superiore. Comprovata competenza nello sviluppo di sistemi di gestione della sicurezza di processo, conduzione di studi HAZOP e fornitura di consulenza basata sul rischio per le industrie farmaceutiche e chimiche. Solida formazione tecnica nella modellazione delle conseguenze (DNV PHAST, Gexcon), conformità normativa (COMAH, Direttive UE) e preparazione di rapporti di sicurezza. Attualmente al servizio di clienti internazionali di alto profilo tra cui Intel e principali produttori farmaceutici.',
+            'profile': 'Ingegnere Ambientale Senior e Specialista della Sicurezza di Processo con oltre 13 anni di esperienza progressiva in conformità SEVESO, normative ATEX e protezione dalle esplosioni per siti Seveso di Soglia Superiore. Comprovata competenza nello sviluppo di sistemi di gestione della sicurezza di processo, conduzione di studi HAZOP e fornitura di consulenza basata sul rischio per le industrie farmaceutiche e chimiche. Solida formazione tecnica nella modellazione delle conseguenze (DNV PHAST, Gexcon), conformità normativa (COMAH, Direttive UE) e preparazione di rapporti di sicurezza. Attualmente al servizio di clienti internazionali di alto profilo tra cui Intel e principali produttori farmaceutici.',
             
             'competencies_title': 'COMPETENZE PRINCIPALI',
             'competencies': [
@@ -347,7 +347,7 @@ def create_cv(filename, language='en'):
             'linkedin': 'linkedin.com/in/sbtbrkcbc',
             
             'profile_title': 'PROFESYONELÖZGEÇMİŞ',
-            'profile': 'Üst Kademe Seveso tesisleri için SEVESO uyumluluğu, ATEX yönetmelikleri ve patlama koruması konularında 11+ yıllık ilerleyici deneyime sahip Kıdemli Çevre Mühendisi ve Proses Güvenliği Uzmanı. Proses Güvenliği Yönetim sistemleri geliştirme, HAZOP çalışmaları yürütme ve ilaç ve kimya endüstrileri için risk tabanlı danışmanlık sunma konusunda kanıtlanmış uzmanlık. Sonuç modelleme (DNV PHAST, Gexcon), mevzuat uyumluluğu (COMAH, AB Direktifleri) ve güvenlik raporu hazırlama konularında güçlü teknik altyapı. Şu anda Intel ve önde gelen ilaç üreticileri dahil olmak üzere yüksek profilli uluslararası müşterilere hizmet vermektedir.',
+            'profile': 'Üst Kademe Seveso tesisleri için SEVESO uyumluluğu, ATEX yönetmelikleri ve patlama koruması konularında 13+ yıllık ilerleyici deneyime sahip Kıdemli Çevre Mühendisi ve Proses Güvenliği Uzmanı. Proses Güvenliği Yönetim sistemleri geliştirme, HAZOP çalışmaları yürütme ve ilaç ve kimya endüstrileri için risk tabanlı danışmanlık sunma konusunda kanıtlanmış uzmanlık. Sonuç modelleme (DNV PHAST, Gexcon), mevzuat uyumluluğu (COMAH, AB Direktifleri) ve güvenlik raporu hazırlama konularında güçlü teknik altyapı. Şu anda Intel ve önde gelen ilaç üreticileri dahil olmak üzere yüksek profilli uluslararası müşterilere hizmet vermektedir.',
             
             'competencies_title': 'TEMEL YETKİNLİKLER',
             'competencies': [
