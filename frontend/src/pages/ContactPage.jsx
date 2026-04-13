@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useLocale } from '../context/LocaleContext';
 import SEOHead from '../components/SEO/SEOHead';
-import { Mail, MapPin, Clock, Send } from 'lucide-react';
+import { Mail, MapPin, Send, Linkedin } from 'lucide-react';
 import { Button } from '../components/ui/button';
 import { Card } from '../components/ui/card';
 import { Input } from '../components/ui/input';
@@ -74,6 +74,7 @@ const ContactPage = () => {
           <div className="text-center mb-16">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">{t.contact.title}</h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">{t.contact.subtitle}</p>
+            <p className="text-gray-600 mt-4">{t.contact.description}</p>
           </div>
 
           <div className="grid lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
@@ -94,32 +95,40 @@ const ContactPage = () => {
 
               <Card className="p-6 bg-white border-gray-200 hover:shadow-lg transition-shadow duration-300">
                 <div className="flex items-start space-x-4">
-                  <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                    <MapPin className="h-6 w-6 text-gray-600" />
+                  <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                    <Linkedin className="h-6 w-6 text-blue-600" />
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold text-gray-900 mb-1">{t.contact.info.address}</h3>
-                    <p className="text-gray-600">Dublin, Ireland</p>
-                    <p className="text-sm text-gray-500 mt-2">{t.contact.serviceAreas}</p>
+                    <h3 className="text-lg font-bold text-gray-900 mb-1">{t.contact.info.linkedin}</h3>
+                    <a
+                      href="https://www.linkedin.com/in/sbtbrkcbc/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-600 hover:text-blue-700 font-medium"
+                    >
+                      linkedin.com/in/sbtbrkcbc
+                    </a>
                   </div>
                 </div>
               </Card>
 
-              <Card className="p-6 bg-white border-gray-200 hover:shadow-lg transition-shadow duration-300">
+              <Card className="p-6 bg-gradient-to-br from-blue-50 to-white border-gray-200">
                 <div className="flex items-start space-x-4">
                   <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                    <Clock className="h-6 w-6 text-green-600" />
+                    <MapPin className="h-6 w-6 text-green-600" />
                   </div>
                   <div>
-                    <h3 className="text-lg font-bold text-gray-900 mb-1">{t.contact.info.hours}</h3>
-                    <p className="text-gray-600">{t.contact.info.hoursText}</p>
+                    <h3 className="text-lg font-bold text-gray-900 mb-1">{t.contact.info.availability}</h3>
+                    <p className="text-gray-700">{t.contact.serviceAreas}</p>
                   </div>
                 </div>
               </Card>
             </div>
 
             <Card className="p-8 bg-white border-gray-200">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">{t.contact.form.name ? t.contact.form.name : 'Send Message'}</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                {locale === 'it-it' ? 'Invia un Messaggio' : 'Send a Message'}
+              </h2>
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">{t.contact.form.name}</label>

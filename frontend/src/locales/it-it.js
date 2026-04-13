@@ -162,27 +162,26 @@ export const itIT = {
   },
   
   contact: {
-    title: 'Contattaci',
-    subtitle: 'Richiedi la Tua Consulenza Gratuita Oggi',
-    description: 'Con sede a Dublino e servizio per tutta l\'Europa. Contattaci per discutere le tue esigenze di sicurezza di processo, conformità SEVESO o ATEX.',
+    title: 'Contattami',
+    subtitle: 'Discutiamo delle tue esigenze di sicurezza di processo',
+    description: 'Disponibile per progetti di consulenza in tutta Europa. Contattami per discutere esigenze SEVESO, ATEX o gestione sicurezza di processo.',
     form: {
-      name: 'Nome Completo',
-      email: 'Indirizzo Email',
-      phone: 'Numero di Telefono',
-      company: 'Nome Azienda',
-      message: 'Descrivi le tue esigenze',
-      submit: 'Invia Richiesta',
-      success: 'Grazie! Ti contatteremo entro 24 ore.',
-      error: 'Si prega di compilare tutti i campi obbligatori.'
+      name: 'Nome',
+      email: 'Email',
+      phone: 'Telefono (opzionale)',
+      company: 'Azienda',
+      message: 'Messaggio',
+      submit: 'Invia Messaggio',
+      success: 'Grazie per il tuo messaggio. Risponderò entro 24 ore.',
+      error: 'Si prega di compilare tutti i campi obbligatori'
     },
     info: {
       email: 'Email',
       phone: 'Telefono',
-      address: 'Indirizzo Ufficio',
-      hours: 'Orari',
-      hoursText: 'Lunedì - Venerdì: 9:00 - 17:30 GMT'
+      linkedin: 'LinkedIn',
+      availability: 'Disponibilità'
     },
-    serviceAreas: 'Aree di Servizio: Italia e Tutta Europa'
+    serviceAreas: 'Disponibile per progetti in Irlanda, Italia e tutta Europa'
   },
   
   footer: {

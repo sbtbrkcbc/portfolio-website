@@ -162,27 +162,26 @@ export const enIE = {
   },
   
   contact: {
-    title: 'Contact Us in Dublin',
-    subtitle: 'Get Your Free Consultation Today',
-    description: 'Based in Dublin and serving all of Ireland. Contact us to discuss your process safety, SEVESO, or ATEX compliance needs.',
+    title: 'Get in Touch',
+    subtitle: 'Let\'s discuss your process safety requirements',
+    description: 'Available for consultancy projects across Europe. Contact me to discuss SEVESO, ATEX, or process safety management needs.',
     form: {
-      name: 'Full Name',
-      email: 'Email Address',
-      phone: 'Phone Number',
-      company: 'Company Name',
-      message: 'Tell us about your requirements',
-      submit: 'Send Enquiry',
-      success: 'Thank you! We\'ll be in touch within 24 hours.',
-      error: 'Please fill in all required fields.'
+      name: 'Name',
+      email: 'Email',
+      phone: 'Phone (optional)',
+      company: 'Company',
+      message: 'Message',
+      submit: 'Send Message',
+      success: 'Thank you for your message. I\'ll respond within 24 hours.',
+      error: 'Please fill in all required fields'
     },
     info: {
       email: 'Email',
       phone: 'Phone',
-      address: 'Office Address',
-      hours: 'Business Hours',
-      hoursText: 'Monday - Friday: 9:00 AM - 5:30 PM GMT'
+      linkedin: 'LinkedIn',
+      availability: 'Availability'
     },
-    serviceAreas: 'Service Areas: Dublin, Cork, Galway, Limerick & All Ireland'
+    serviceAreas: 'Available for projects in Ireland, Italy, and across Europe'
   },
   
   footer: {
