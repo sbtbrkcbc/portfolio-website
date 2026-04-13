@@ -212,7 +212,7 @@ export const itIT = {
     },
     items: [
       {
-        title: 'Consulente del Rischio',
+        title: 'Consulente Senior del Rischio',
         company: 'AWN Consulting Ltd.',
         location: 'Dublino, Irlanda',
         period: 'Agosto 2023 – Presente',

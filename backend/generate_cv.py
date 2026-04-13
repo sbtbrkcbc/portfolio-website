@@ -64,7 +64,7 @@ def create_cv(filename, language='en'):
             'experience_title': 'PROFESSIONAL EXPERIENCE',
             'experience': [
                 {
-                    'title': 'Risk Consultant',
+                    'title': 'Senior Risk Consultant',
                     'company': 'AWN Consulting Ltd.',
                     'location': 'Dublin, Ireland',
                     'period': 'August 2023 – Present',
@@ -374,7 +374,7 @@ def create_cv(filename, language='en'):
             'experience_title': 'PROFESYONEL DENEYİM',
             'experience': [
                 {
-                    'title': 'Risk Danışmanı',
+                    'title': 'Kıdemli Risk Danışmanı',
                     'company': 'AWN Consulting Ltd.',
                     'location': 'Dublin, İrlanda',
                     'period': 'Ağustos 2023 – Halen',

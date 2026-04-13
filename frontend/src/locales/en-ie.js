@@ -212,7 +212,7 @@ export const enIE = {
     },
     items: [
       {
-        title: 'Risk Consultant',
+        title: 'Senior Risk Consultant',
         company: 'AWN Consulting Ltd.',
         location: 'Dublin, Ireland',
         period: 'August 2023 – Present',

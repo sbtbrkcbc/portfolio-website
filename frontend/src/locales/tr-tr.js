@@ -212,7 +212,7 @@ export const trTR = {
     },
     items: [
       {
-        title: 'Risk Danışmanı',
+        title: 'Kıdemli Risk Danışmanı',
         company: 'AWN Consulting Ltd.',
         location: 'Dublin, İrlanda',
         period: 'Ağustos 2023 – Halen',
