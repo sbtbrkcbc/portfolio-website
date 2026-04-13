@@ -10,6 +10,8 @@ from typing import List
 import uuid
 from datetime import datetime, timezone
 
+# Import custom routes
+from routes.cv import router as cv_router
 
 ROOT_DIR = Path(__file__).parent
 load_dotenv(ROOT_DIR / '.env')
@@ -65,6 +67,28 @@ async def get_status_checks():
             check['timestamp'] = datetime.fromisoformat(check['timestamp'])
     
     return status_checks
+
+# Contact form endpoint
+@api_router.post("/contact")
+async def create_contact(message: dict):
+    from models.contact import ContactMessageCreate, ContactMessage
+    try:
+        message_create = ContactMessageCreate(**message)
+        contact_message = ContactMessage(**message_create.dict())
+        
+        # Convert to dict for MongoDB
+        doc = contact_message.dict()
+        doc['created_at'] = doc['created_at'].isoformat()
+        
+        result = await db.contact_messages.insert_one(doc)
+        logger.info(f"Contact message created: {contact_message.id} from {contact_message.email}")
+        return {"success": True, "message": "Message sent successfully", "id": contact_message.id}
+    except Exception as e:
+        logger.error(f"Error creating contact message: {str(e)}")
+        return {"success": False, "message": str(e)}
+
+# Include CV router
+api_router.include_router(cv_router)
 
 # Include the router in the main app
 app.include_router(api_router)

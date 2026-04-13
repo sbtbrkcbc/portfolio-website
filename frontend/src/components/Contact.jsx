@@ -8,14 +8,14 @@ import { Textarea } from './ui/textarea';
 import { toast } from '../hooks/use-toast';
 
 const Contact = () => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
   const [formData, setFormData] = useState({
     name: '',
     email: '',
     message: ''
   });
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     if (!formData.name || !formData.email || !formData.message) {
       toast({
@@ -25,12 +25,38 @@ const Contact = () => {
       });
       return;
     }
-    // This will be connected to backend later
-    toast({
-      title: 'Success',
-      description: t.contact.success
-    });
-    setFormData({ name: '', email: '', message: '' });
+    
+    try {
+      const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+      const response = await fetch(`${BACKEND_URL}/api/contact`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          ...formData,
+          language
+        })
+      });
+      
+      const data = await response.json();
+      
+      if (data.success) {
+        toast({
+          title: 'Success',
+          description: t.contact.success
+        });
+        setFormData({ name: '', email: '', message: '' });
+      } else {
+        throw new Error(data.message);
+      }
+    } catch (error) {
+      toast({
+        title: 'Error',
+        description: 'Failed to send message. Please try again.',
+        variant: 'destructive'
+      });
+    }
   };
 
   return (

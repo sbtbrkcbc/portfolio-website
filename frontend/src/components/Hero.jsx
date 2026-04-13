@@ -4,7 +4,7 @@ import { MapPin, Award, Download, Linkedin } from 'lucide-react';
 import { Button } from './ui/button';
 
 const Hero = () => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
 
   const scrollToContact = () => {
     const element = document.getElementById('contact');
@@ -14,8 +14,8 @@ const Hero = () => {
   };
 
   const handleDownloadCV = () => {
-    // This will be implemented later with backend
-    alert('CV download will be available soon');
+    const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+    window.open(`${BACKEND_URL}/api/cv/download?lang=${language}`, '_blank');
   };
 
   return (
