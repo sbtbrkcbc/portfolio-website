@@ -186,14 +186,13 @@ export const itIT = {
   },
   
   footer: {
-    tagline: 'Consulenza Sicurezza di Processo e Ambientale per l\'Italia',
+    tagline: 'Consulenza Sicurezza di Processo e Ambientale',
     services: 'Servizi',
     industries: 'Settori',
     company: 'Azienda',
     legal: 'Legale',
     privacy: 'Privacy Policy',
     terms: 'Termini di Servizio',
-    copyright: 'Tutti i diritti riservati',
-    location: 'Dublino, Irlanda'
+    copyright: 'Tutti i diritti riservati'
   }
 };

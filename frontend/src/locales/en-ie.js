@@ -186,14 +186,13 @@ export const enIE = {
   },
   
   footer: {
-    tagline: 'Process Safety & Environmental Consultancy for Ireland',
+    tagline: 'Process Safety & Environmental Consultancy',
     services: 'Services',
     industries: 'Industries',
     company: 'Company',
     legal: 'Legal',
     privacy: 'Privacy Policy',
     terms: 'Terms of Service',
-    copyright: 'All rights reserved',
-    location: 'Dublin, Ireland'
+    copyright: 'All rights reserved'
   }
 };

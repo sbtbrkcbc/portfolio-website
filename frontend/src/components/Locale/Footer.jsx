@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useLocale } from '../../context/LocaleContext';
-import { Mail, Linkedin, MapPin } from 'lucide-react';
+import { Mail, Linkedin } from 'lucide-react';
 
 const Footer = () => {
   const { locale, t } = useLocale();
@@ -15,10 +15,6 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Sabit Burak Cebeci</h3>
             <p className="text-gray-400">{t.footer.tagline}</p>
-            <p className="text-gray-400 mt-2">
-              <MapPin className="h-4 w-4 inline mr-1" />
-              {t.footer.location}
-            </p>
           </div>
 
           <div>

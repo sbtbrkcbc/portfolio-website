@@ -193,7 +193,6 @@ export const trTR = {
     legal: 'Yasal',
     privacy: 'Gizlilik Politikası',
     terms: 'Hizmet Şartları',
-    copyright: 'Tüm hakları saklıdır',
-    location: 'Dublin, İrlanda'
+    copyright: 'Tüm hakları saklıdır'
   }
 };
