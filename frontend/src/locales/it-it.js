@@ -151,6 +151,7 @@ export const itIT = {
       'Gestione Ambientale ISO 14001'
     ],
     memberships: [
+      'American Institute of Chemical Engineers (AIChE)',
       'Engineers Ireland',
       'Camera Ingegneri Ambientali'
     ],

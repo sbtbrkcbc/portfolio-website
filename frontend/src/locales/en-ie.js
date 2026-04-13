@@ -151,6 +151,7 @@ export const enIE = {
       'ISO 14001 Environmental Management'
     ],
     memberships: [
+      'American Institute of Chemical Engineers (AIChE)',
       'Engineers Ireland',
       'Chamber of Environmental Engineers'
     ],

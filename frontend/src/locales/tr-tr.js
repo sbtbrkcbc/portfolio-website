@@ -151,6 +151,7 @@ export const trTR = {
       'ISO 14001 Çevre Yönetimi'
     ],
     memberships: [
+      'American Institute of Chemical Engineers (AIChE)',
       'Engineers Ireland',
       'Çevre Mühendisleri Odası'
     ],
