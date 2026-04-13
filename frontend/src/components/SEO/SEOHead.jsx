@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { useLocale } from '../context/LocaleContext';
+import { useLocale } from '../../context/LocaleContext';
 
 const SEOHead = ({ 
   title, 

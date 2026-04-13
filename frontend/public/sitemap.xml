@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Ireland (en-IE) URLs -->
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sabitcebeci.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sabitcebeci.com/en/"/>
+    <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/about</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/about"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/chi-sono"/>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/services</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi"/>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/services/seveso-consultancy</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/seveso-consultancy"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/consulenza-seveso"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/services/atex-compliance</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/atex-compliance"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/conformita-atex"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/services/explosion-protection</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/explosion-protection"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/protezione-esplosioni"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/services/process-safety-management</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/process-safety-management"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/gestione-sicurezza-processo"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/industries</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/industries"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/settori"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/industries/pharmaceutical</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/industries/pharmaceutical"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/settori/farmaceutico"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/industries/chemical</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/industries/chemical"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/settori/chimico"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/certifications</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/certifications"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/certificazioni"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/en-ie/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/contact"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/contatti"/>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Italy (it-IT) URLs -->
+  <url>
+    <loc>https://sabitcebeci.com/it-it/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sabitcebeci.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sabitcebeci.com/en/"/>
+    <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/chi-sono</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/about"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/chi-sono"/>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/servizi</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi"/>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/servizi/consulenza-seveso</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/seveso-consultancy"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/consulenza-seveso"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/servizi/conformita-atex</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/atex-compliance"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/conformita-atex"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/servizi/protezione-esplosioni</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/explosion-protection"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/protezione-esplosioni"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/servizi/gestione-sicurezza-processo</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/services/process-safety-management"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/servizi/gestione-sicurezza-processo"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/settori</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/industries"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/settori"/>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/settori/farmaceutico</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/industries/pharmaceutical"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/settori/farmaceutico"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/settori/chimico</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/industries/chemical"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/settori/chimico"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/certificazioni</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/certifications"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/certificazioni"/>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://sabitcebeci.com/it-it/contatti</loc>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://sabitcebeci.com/en-ie/contact"/>
+    <xhtml:link rel="alternate" hreflang="it-IT" href="https://sabitcebeci.com/it-it/contatti"/>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

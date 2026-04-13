@@ -25,7 +25,7 @@ export const enIE = {
     subtitle: 'SEVESO & ATEX Compliance in Ireland',
     description: 'Expert consultancy for pharmaceutical and chemical industries. Supporting Irish businesses with comprehensive process safety management.',
     experience: '11+ Years Experience',
-    location: 'Based in Dublin, Ireland',
+    location: 'Serving Ireland & Europe',
     cta: 'Book Free Consultation',
     downloadCV: 'Download CV',
     trustedBy: 'Trusted by Leading Irish Companies'

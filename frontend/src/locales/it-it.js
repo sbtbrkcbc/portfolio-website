@@ -25,7 +25,7 @@ export const itIT = {
     subtitle: 'Conformità SEVESO e ATEX in Italia',
     description: 'Consulenza esperta per industrie farmaceutiche e chimiche. Supporto alle aziende italiane con gestione completa della sicurezza di processo.',
     experience: '11+ Anni di Esperienza',
-    location: 'Sede a Dublino, Irlanda',
+    location: 'Servizio per Italia ed Europa',
     cta: 'Richiedi Consulenza Gratuita',
     downloadCV: 'Scarica CV',
     trustedBy: 'Di Fiducia per Aziende Leader'
