@@ -34,8 +34,9 @@ export const trTR = {
   
   about: {
     title: 'Hakkımda',
-    subtitle: 'Proses Güvenliği Ortağınız',
-    description: '2013 yılında başlayan kariyerimde, çevre sağlığı ve güvenliği alanında uzmanlaşmaya odaklandım. AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak SEVESO danışmanlığı konusunda uzmanlaşmış durumdayım. ATEX Direktifleri, LOPA analizi ve teknik rapor yazımı konusundaki uzmanlığım, tesislerinizin tüm uluslararası uyumluluk gereksinimlerini karşılamasını sağlar.',
+    subtitle: 'Proses Güvenliği Uzmanı',
+    description: '2013 yılında başlayan kariyerimde, çevre sağlığı ve güvenliği alanında uzmanlaşmaya odaklandım. AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak SEVESO uyumluluğu konusunda uzmanlaşmış durumdayım. ATEX Direktifleri, LOPA analizi ve teknik rapor yazımı konusundaki uzmanlığım, tesislerin tüm uluslararası uyumluluk gereksinimlerini karşılamasını sağlar.',
+    disclaimer: 'Şu anda AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak görev yapmaktayım. Bu portfolio profesyonel uzmanlığımı ve kariyer yolculuğumu sergiler.',
     highlights: [
       'SEVESO ve COMAH Uyumluluk Uzmanı',
       'ATEX Ekipman Seçimi ve Denetimi',
@@ -47,8 +48,8 @@ export const trTR = {
   },
   
   services: {
-    title: 'Danışmanlık Hizmetleri',
-    subtitle: 'Kapsamlı Proses Güvenliği Çözümleri',
+    title: 'Uzmanlık Alanları',
+    subtitle: 'Kapsamlı Proses Güvenliği Yetkinlikleri',
     items: [
       {
         slug: 'seveso-danismanligi',
@@ -165,8 +166,8 @@ export const trTR = {
   
   contact: {
     title: 'İletişime Geçin',
-    subtitle: 'Proses güvenliği gereksinimlerinizi görüşelim',
-    description: 'Avrupa genelinde danışmanlık projeleri için müsait. SEVESO, ATEX veya proses güvenliği yönetimi ihtiyaçlarınızı görüşmek için benimle iletişime geçin.',
+    subtitle: 'Proses güvenliği gereksinimlerini görüşelim',
+    description: 'Profesyonel networking ve iş birliğine açık. SEVESO, ATEX veya proses güvenliği yönetimi konularını görüşmek için benimle iletişime geçin.',
     form: {
       name: 'İsim',
       email: 'E-posta',
@@ -187,7 +188,7 @@ export const trTR = {
   },
   
   footer: {
-    tagline: 'Proses Güvenliği ve Çevre Danışmanlığı',
+    tagline: 'Proses Güvenliği ve Çevre Profesyoneli',
     services: 'Hizmetler',
     industries: 'Sektörler',
     company: 'Şirket',

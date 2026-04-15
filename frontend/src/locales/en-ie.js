@@ -34,8 +34,9 @@ export const enIE = {
   
   about: {
     title: 'About Sabit Burak Cebeci',
-    subtitle: 'Your Process Safety Partner in Ireland',
-    description: 'With a career inception in 2013, I have dedicated my professional journey to mastering environmental health and safety. As a Senior Risk Consultant at AWN Consulting Ltd., I specialize in SEVESO consultancy, providing risk-based support for major Irish clients including Intel and pharmaceutical manufacturers. My expertise in ATEX Directives, LOPA analysis, and technical report writing ensures your facility meets all Irish and EU compliance requirements.',
+    subtitle: 'Process Safety Specialist in Ireland',
+    description: 'With a career inception in 2013, I have dedicated my professional journey to mastering environmental health and safety. As a Senior Risk Consultant at AWN Consulting Ltd., I specialize in SEVESO compliance, providing risk-based support for major Irish clients including Intel and pharmaceutical manufacturers. My expertise in ATEX Directives, LOPA analysis, and technical report writing ensures facilities meet all Irish and EU compliance requirements.',
+    disclaimer: 'Currently employed as Senior Risk Consultant at AWN Consulting Ltd. This portfolio showcases my professional expertise and career journey.',
     highlights: [
       'SEVESO & COMAH Compliance Specialist',
       'ATEX Equipment Selection & Inspection',
@@ -47,14 +48,14 @@ export const enIE = {
   },
   
   services: {
-    title: 'Consulting Services',
-    subtitle: 'Comprehensive Process Safety Solutions',
+    title: 'Areas of Expertise',
+    subtitle: 'Comprehensive Process Safety Competencies',
     items: [
       {
         slug: 'seveso-consultancy',
         title: 'SEVESO Consultancy',
         shortDesc: 'Expert guidance for SEVESO compliance',
-        description: 'Complete SEVESO consultancy services for Upper and Lower Tier sites. Safety report preparation, compliance assessments, and ongoing support to ensure your facility meets all EU regulatory requirements.',
+        description: 'Complete SEVESO expertise for Upper and Lower Tier sites. Safety report preparation, compliance assessments, and ongoing support to ensure facilities meet all EU regulatory requirements.',
         features: [
           'Safety Report Preparation & Updates',
           'COMAH Compliance Assessments',
@@ -67,7 +68,7 @@ export const enIE = {
         slug: 'atex-compliance',
         title: 'ATEX Compliance',
         shortDesc: 'Complete ATEX solutions for industrial facilities',
-        description: 'Comprehensive ATEX compliance services including equipment certification, hazardous area classification, and site audits. Ensuring your facility meets EU Directive 2014/34/EU requirements.',
+        description: 'Comprehensive ATEX compliance expertise including equipment certification, hazardous area classification, and site audits. Ensuring facilities meet EU Directive 2014/34/EU requirements.',
         features: [
           'ATEX Equipment Selection & Certification',
           'Hazardous Area Classification Reviews',
@@ -165,8 +166,8 @@ export const enIE = {
   
   contact: {
     title: 'Get in Touch',
-    subtitle: 'Let\'s discuss your process safety requirements',
-    description: 'Available for consultancy projects across Europe. Contact me to discuss SEVESO, ATEX, or process safety management needs.',
+    subtitle: 'Let\'s discuss process safety requirements',
+    description: 'Open to professional networking and collaboration. Connect with me to discuss SEVESO, ATEX, or process safety management topics.',
     form: {
       name: 'Name',
       email: 'Email',
@@ -183,11 +184,11 @@ export const enIE = {
       linkedin: 'LinkedIn',
       availability: 'Availability'
     },
-    serviceAreas: 'Available for projects in Ireland, Italy, and across Europe'
+    serviceAreas: 'Open to networking in Ireland, Italy, and across Europe'
   },
   
   footer: {
-    tagline: 'Process Safety & Environmental Consultancy',
+    tagline: 'Process Safety & Environmental Professional',
     services: 'Services',
     industries: 'Industries',
     company: 'Company',

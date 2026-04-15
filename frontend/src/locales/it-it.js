@@ -34,8 +34,9 @@ export const itIT = {
   
   about: {
     title: 'Chi Sono',
-    subtitle: 'Il Tuo Partner per la Sicurezza di Processo',
-    description: 'Con l\'inizio della carriera nel 2013, ho dedicato il mio percorso professionale alla padronanza della salute e sicurezza ambientale. Come Consulente Senior del Rischio presso AWN Consulting Ltd., mi specializzo in consulenza SEVESO, fornendo supporto basato sul rischio per importanti clienti internazionali. La mia esperienza nelle Direttive ATEX, analisi LOPA e redazione di report tecnici garantisce che la vostra struttura soddisfi tutti i requisiti di conformità italiani ed europei.',
+    subtitle: 'Specialista Sicurezza di Processo',
+    description: 'Con l\'inizio della carriera nel 2013, ho dedicato il mio percorso professionale alla padronanza della salute e sicurezza ambientale. Come Consulente Senior del Rischio presso AWN Consulting Ltd., mi specializzo in conformità SEVESO, fornendo supporto basato sul rischio per importanti clienti internazionali. La mia esperienza nelle Direttive ATEX, analisi LOPA e redazione di report tecnici garantisce che le strutture soddisfino tutti i requisiti di conformità italiani ed europei.',
+    disclaimer: 'Attualmente impiegato come Consulente Senior del Rischio presso AWN Consulting Ltd. Questo portfolio presenta la mia competenza professionale e il mio percorso di carriera.',
     highlights: [
       'Specialista Conformità SEVESO e COMAH',
       'Selezione e Ispezione Apparecchiature ATEX',
@@ -47,8 +48,8 @@ export const itIT = {
   },
   
   services: {
-    title: 'Servizi di Consulenza',
-    subtitle: 'Soluzioni Complete per la Sicurezza di Processo',
+    title: 'Aree di Competenza',
+    subtitle: 'Competenze Complete per la Sicurezza di Processo',
     items: [
       {
         slug: 'consulenza-seveso',
@@ -165,8 +166,8 @@ export const itIT = {
   
   contact: {
     title: 'Contattami',
-    subtitle: 'Discutiamo delle tue esigenze di sicurezza di processo',
-    description: 'Disponibile per progetti di consulenza in tutta Europa. Contattami per discutere esigenze SEVESO, ATEX o gestione sicurezza di processo.',
+    subtitle: 'Discutiamo delle esigenze di sicurezza di processo',
+    description: 'Aperto a networking professionale e collaborazione. Contattami per discutere argomenti SEVESO, ATEX o gestione sicurezza di processo.',
     form: {
       name: 'Nome',
       email: 'Email',
@@ -183,11 +184,11 @@ export const itIT = {
       linkedin: 'LinkedIn',
       availability: 'Disponibilità'
     },
-    serviceAreas: 'Disponibile per progetti in Irlanda, Italia e tutta Europa'
+    serviceAreas: 'Aperto a networking in Irlanda, Italia e tutta Europa'
   },
   
   footer: {
-    tagline: 'Consulenza Sicurezza di Processo e Ambientale',
+    tagline: 'Professionista Sicurezza di Processo e Ambientale',
     services: 'Servizi',
     industries: 'Settori',
     company: 'Azienda',

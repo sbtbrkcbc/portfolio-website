@@ -35,6 +35,16 @@ const AboutPage = () => {
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
                 {t.about.description}
               </p>
+              
+              {/* Disclaimer */}
+              {t.about.disclaimer && (
+                <div className="mb-6 p-4 bg-blue-50 border-l-4 border-[#0F2A4D] rounded-r-lg">
+                  <p className="text-sm text-gray-700 italic">
+                    <span className="font-semibold text-[#0F2A4D]">ℹ️ Note:</span> {t.about.disclaimer}
+                  </p>
+                </div>
+              )}
+              
               {locale === 'en-ie' && (
                 <p className="text-sm text-gray-600 italic bg-blue-50 p-4 rounded-lg border-l-4 border-blue-600">
                   {t.about.clients}
