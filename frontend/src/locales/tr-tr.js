@@ -34,8 +34,8 @@ export const trTR = {
   
   about: {
     title: 'Hakkımda',
-    subtitle: 'Proses Güvenliği Uzmanı',
-    description: '2013 yılında başlayan kariyerimde, çevre sağlığı ve güvenliği alanında uzmanlaşmaya odaklandım. AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak SEVESO uyumluluğu konusunda uzmanlaşmış durumdayım. ATEX Direktifleri, LOPA analizi ve teknik rapor yazımı konusundaki uzmanlığım, tesislerin tüm uluslararası uyumluluk gereksinimlerini karşılamasını sağlar.',
+    subtitle: 'Proses Güvenliği ve SEVESO Uzmanı',
+    description: '2013 yılında başlayan kariyerimde, çevre sağlığı ve güvenliği alanında uzmanlaşmaya odaklandım. AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak SEVESO uyumluluğu konusunda uzmanlaşmış durumdayım. ATEX Direktifleri, LOPA analizi ve teknik rapor yazımı konusundaki uzmanlığım, tesislerin tüm AB ve uluslararası uyumluluk gereksinimlerini karşılamasını sağlar.',
     disclaimer: 'Şu anda AWN Consulting Ltd. bünyesinde Kıdemli Risk Danışmanı olarak görev yapmaktayım. Bu portfolio profesyonel uzmanlığımı ve kariyer yolculuğumu sergiler.',
     highlights: [
       'SEVESO ve COMAH Uyumluluk Uzmanı',

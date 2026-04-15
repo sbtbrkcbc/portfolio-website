@@ -34,17 +34,17 @@ export const enIE = {
   
   about: {
     title: 'About Sabit Burak Cebeci',
-    subtitle: 'Process Safety Specialist in Ireland',
-    description: 'With a career inception in 2013, I have dedicated my professional journey to mastering environmental health and safety. As a Senior Risk Consultant at AWN Consulting Ltd., I specialize in SEVESO compliance, providing risk-based support for major Irish clients including Intel and pharmaceutical manufacturers. My expertise in ATEX Directives, LOPA analysis, and technical report writing ensures facilities meet all Irish and EU compliance requirements.',
+    subtitle: 'Process Safety & SEVESO Specialist',
+    description: 'With a career inception in 2013, I have dedicated my professional journey to mastering environmental health and safety. As a Senior Risk Consultant at AWN Consulting Ltd., I specialize in SEVESO compliance, providing risk-based support for major international clients including Intel and pharmaceutical manufacturers. My expertise in ATEX Directives, LOPA analysis, and technical report writing ensures facilities meet all EU and international compliance requirements.',
     disclaimer: 'Currently employed as Senior Risk Consultant at AWN Consulting Ltd. This portfolio showcases my professional expertise and career journey.',
     highlights: [
       'SEVESO & COMAH Compliance Specialist',
       'ATEX Equipment Selection & Inspection',
       'Process Safety Management Systems',
       'LOPA (Layer of Protection Analysis)',
-      'Supporting Irish Pharmaceutical & Chemical Industries'
+      'Supporting International Pharmaceutical & Chemical Industries'
     ],
-    clients: 'Irish Clients Include: Intel, Guerbet Ireland, and leading pharmaceutical manufacturers'
+    clients: 'International Clients Include: Intel, Guerbet, and leading pharmaceutical manufacturers'
   },
   
   services: {

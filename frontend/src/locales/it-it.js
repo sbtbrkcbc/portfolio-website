@@ -34,15 +34,15 @@ export const itIT = {
   
   about: {
     title: 'Chi Sono',
-    subtitle: 'Specialista Sicurezza di Processo',
-    description: 'Con l\'inizio della carriera nel 2013, ho dedicato il mio percorso professionale alla padronanza della salute e sicurezza ambientale. Come Consulente Senior del Rischio presso AWN Consulting Ltd., mi specializzo in conformità SEVESO, fornendo supporto basato sul rischio per importanti clienti internazionali. La mia esperienza nelle Direttive ATEX, analisi LOPA e redazione di report tecnici garantisce che le strutture soddisfino tutti i requisiti di conformità italiani ed europei.',
+    subtitle: 'Specialista Sicurezza di Processo e SEVESO',
+    description: 'Con l\'inizio della carriera nel 2013, ho dedicato il mio percorso professionale alla padronanza della salute e sicurezza ambientale. Come Consulente Senior del Rischio presso AWN Consulting Ltd., mi specializzo in conformità SEVESO, fornendo supporto basato sul rischio per importanti clienti internazionali. La mia esperienza nelle Direttive ATEX, analisi LOPA e redazione di report tecnici garantisce che le strutture soddisfino tutti i requisiti di conformità UE e internazionali.',
     disclaimer: 'Attualmente impiegato come Consulente Senior del Rischio presso AWN Consulting Ltd. Questo portfolio presenta la mia competenza professionale e il mio percorso di carriera.',
     highlights: [
       'Specialista Conformità SEVESO e COMAH',
       'Selezione e Ispezione Apparecchiature ATEX',
       'Sistemi di Gestione Sicurezza di Processo',
       'LOPA (Layer of Protection Analysis)',
-      'Supporto Industrie Farmaceutiche e Chimiche Italiane'
+      'Supporto Industrie Farmaceutiche e Chimiche Internazionali'
     ],
     clients: 'Esperienza con clienti internazionali di alto profilo'
   },
