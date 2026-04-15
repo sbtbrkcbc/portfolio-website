@@ -13,7 +13,8 @@ const HomePage = () => {
 
   const handleDownloadCV = () => {
     const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
-    const lang = locale === 'it-it' ? 'it' : 'en';
+    // Extract language code from locale (e.g., 'de-de' -> 'de')
+    const lang = locale.split('-')[0];
     window.open(`${BACKEND_URL}/api/cv/download?lang=${lang}`, '_blank');
   };
 
