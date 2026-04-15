@@ -24,10 +24,10 @@ export const enIE = {
   hero: {
     title: 'Senior Process Safety Consultant',
     subtitle: 'SEVESO & ATEX Compliance Specialist',
-    description: 'Expert consultancy for pharmaceutical and chemical industries. Comprehensive process safety management and regulatory compliance support.',
+    description: 'Process safety expertise for pharmaceutical and chemical industries. Specialized in process safety management and regulatory compliance.',
     experience: '13+ Years Experience',
     location: '',
-    cta: 'Get in Touch',
+    cta: 'Connect',
     downloadCV: 'Download CV',
     trustedBy: ''
   },
@@ -165,8 +165,8 @@ export const enIE = {
   },
   
   contact: {
-    title: 'Get in Touch',
-    subtitle: 'Let\'s discuss process safety requirements',
+    title: 'Let\'s Connect',
+    subtitle: 'Interested in process safety expertise?',
     description: 'Open to professional networking and collaboration. Connect with me to discuss SEVESO, ATEX, or process safety management topics.',
     form: {
       name: 'Name',
