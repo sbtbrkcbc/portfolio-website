@@ -16,7 +16,7 @@ export const frFR = {
 
   hero: {
     title: 'Consultant Senior en Sécurité des Procédés',
-    subtitle: 'Spécialiste Conformité SEVESO & ATEX',
+    subtitle: 'Conformité SEVESO & ATEX',
     description: 'Expertise en sécurité des procédés pour les industries pharmaceutiques et chimiques. Spécialisé dans la gestion de la sécurité des procédés et la conformité réglementaire.',
     experience: '13+ Années d\'Expérience',
     location: '',

@@ -16,7 +16,7 @@ export const esES = {
 
   hero: {
     title: 'Consultor Senior en Seguridad de Procesos',
-    subtitle: 'Especialista en Cumplimiento SEVESO & ATEX',
+    subtitle: 'Cumplimiento SEVESO & ATEX',
     description: 'Experiencia en seguridad de procesos para industrias farmacéuticas y químicas. Especializado en gestión de seguridad de procesos y cumplimiento normativo.',
     experience: '13+ Años de Experiencia',
     location: '',

@@ -16,7 +16,7 @@ export const seSE = {
 
   hero: {
     title: 'Senior Processsäkerhetskonsult',
-    subtitle: 'SEVESO & ATEX Efterlevnadsspecialist',
+    subtitle: 'SEVESO & ATEX Efterlevnad',
     description: 'Processsäkerhetsexpertis för läkemedels- och kemiska industrier. Specialiserad på processsäkerhetshantering och regelefterlevnad.',
     experience: '13+ Års Erfarenhet',
     location: '',

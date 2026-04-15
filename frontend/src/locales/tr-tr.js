@@ -23,7 +23,7 @@ export const trTR = {
   
   hero: {
     title: 'Kıdemli Proses Güvenliği Danışmanı',
-    subtitle: 'SEVESO ve ATEX Uyumluluk Uzmanı',
+    subtitle: 'SEVESO ve ATEX Uyumluluğu',
     description: 'İlaç ve kimya endüstrileri için proses güvenliği uzmanlığı. Proses güvenliği yönetimi ve düzenleyici uyumluluk konusunda uzman.',
     experience: '13+ Yıl Deneyim',
     location: '',

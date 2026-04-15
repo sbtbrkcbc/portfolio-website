@@ -16,7 +16,7 @@ export const deDE = {
 
   hero: {
     title: 'Senior Prozesssicherheit-Berater',
-    subtitle: 'SEVESO & ATEX Compliance-Spezialist',
+    subtitle: 'SEVESO & ATEX Compliance',
     description: 'Prozesssicherheitsexpertise für pharmazeutische und chemische Industrien. Spezialisiert auf Prozesssicherheitsmanagement und behördliche Compliance.',
     experience: '13+ Jahre Erfahrung',
     location: '',

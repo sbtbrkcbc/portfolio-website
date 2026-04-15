@@ -23,7 +23,7 @@ export const enIE = {
   
   hero: {
     title: 'Senior Process Safety Consultant',
-    subtitle: 'SEVESO & ATEX Compliance Specialist',
+    subtitle: 'SEVESO & ATEX Compliance',
     description: 'Process safety expertise for pharmaceutical and chemical industries. Specialized in process safety management and regulatory compliance.',
     experience: '13+ Years Experience',
     location: '',

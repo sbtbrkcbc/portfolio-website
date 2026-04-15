@@ -23,7 +23,7 @@ export const itIT = {
   
   hero: {
     title: 'Consulente Senior Sicurezza di Processo',
-    subtitle: 'Specialista Conformità SEVESO e ATEX',
+    subtitle: 'Conformità SEVESO e ATEX',
     description: 'Competenza sicurezza di processo per industrie farmaceutiche e chimiche. Specializzato in gestione sicurezza di processo e conformità normativa.',
     experience: '13+ Anni di Esperienza',
     location: '',
