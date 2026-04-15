@@ -490,6 +490,622 @@ def create_cv(filename, language='en'):
                 ['Mühendislik', 'AutoCAD 2D/3D, Rhino 3D, Atık Su Arıtma Tasarımı, Patlama Koruması Sistemleri'],
                 ['Diller', 'Türkçe (Anadil), İngilizce (Profesyonel İş Yeterliliği)']
             ]
+        },
+        'de': {
+            'name': 'SABIT BURAK CEBECİ',
+            'title': 'Risikoberater | SEVESO & ATEX Spezialist',
+            'subtitle': 'Umwelt- und Prozesssicherheitsingenieurwesen',
+            'email': 'sabitburakcebeci@gmail.com',
+            'phone': '+353 83 084 2944',
+            'location': 'Dublin, Irland',
+            'linkedin': 'linkedin.com/in/sbtbrkcbc',
+            
+            'profile_title': 'BERUFSPROFIL',
+            'profile': 'Senior Umweltingenieur und Prozesssicherheitsspezialist mit über 13 Jahren fortschreitender Erfahrung in SEVESO-Compliance, ATEX-Vorschriften und Explosionsschutz für Seveso-Anlagen der oberen Klasse. Nachgewiesene Expertise in der Entwicklung von Prozesssicherheitsmanagementsystemen, Durchführung von HAZOP-Studien und Bereitstellung risikobasierter Beratung für die Pharma- und Chemieindustrie. Starker technischer Hintergrund in Konsequenzmodellierung (DNV PHAST, Gexcon), regulatorischer Compliance (COMAH, EU-Richtlinien) und Sicherheitsberichtserstellung. Derzeit im Dienst hochkarätiger internationaler Kunden wie Intel und führender Pharmahersteller.',
+            
+            'competencies_title': 'KERNKOMPETENZEN',
+            'competencies': [
+                ['SEVESO-Richtlinien-Compliance', 'ATEX-Gerätezertifizierung & Inspektion', 'Explosionsschutzdokumentation'],
+                ['Prozesssicherheitsmanagement (PSM)', 'HAZOP-Studien & LOPA-Analyse', 'COMAH-Vorschriften 2015'],
+                ['DNV PHAST Konsequenzmodellierung', 'Risikobewertung & Risikominderung', 'Sicherheitsberichtserstellung'],
+                ['ISO 60079, ISO 45001, ISO 14001', 'Notfallmaßnahmenplanung', 'Technisches Berichtswesen']
+            ],
+            
+            'certifications_title': 'BERUFSZERTIFIZIERUNGEN & SCHULUNGEN',
+            'certifications': [
+                'Technisches Berichtswesen – Engineers Ireland (Apr 2024)',
+                'DNV SA-01 Konsequenzmodellierungs-Software-Schulung – DNV (Jan 2024)',
+                'Effekt-/Risiko- & Risikokurven-Modellierungs-Software – Gexcon (Nov 2023)',
+                'LOPA - Layer of Protection Analysis – CCPS',
+                'HAZOP-Schulungszertifizierung – Seyir Akademi (2019)',
+                'ATEX-Gerätezertifizierung – Seyir Akademi (2019)',
+                'Explosionsschutzdokument-Schulung – Seyir Akademi (2019)',
+                'ISO 60079 Standards-Schulung – Seyir Akademi',
+                'ISO 45001:2018 OHSMS-Zertifizierung',
+                'ISO 14001 Umweltmanagementsysteme'
+            ],
+            
+            'experience_title': 'BERUFSERFAHRUNG',
+            'experience': [
+                {
+                    'title': 'Senior Risikoberater',
+                    'company': 'AWN Consulting Ltd.',
+                    'location': 'Dublin, Irland',
+                    'period': 'August 2023 – Heute',
+                    'responsibilities': [
+                        'Bereitstellung von Prozesssicherheits- und Umweltrisikoberatung für Seveso-Anlagen der oberen Klasse in Irland und Europa',
+                        'Durchführung von SEVESO-Beratungsdienstleistungen einschließlich Sicherheitsberichtserstellung, Bewertung wesentlicher Änderungen und regulatorischer Compliance-Überprüfungen',
+                        'Erstellung und Aktualisierung von Explosionsschutzdokumenten (EPD) mit DNV PHAST Konsequenzmodellierungs-Software',
+                        'Unterstützung hochkarätiger Kunden wie Intel und Pharmahersteller bei der Einhaltung der COMAH-Vorschriften',
+                        'Bereitstellung von technischem Berichtswesen und regulatorischer Einreichungsunterstützung für die irische EPA und HSA'
+                    ]
+                },
+                {
+                    'title': 'Prozesssicherheitsingenieur',
+                    'company': 'Guerbet (Pharmazeutische Fertigung)',
+                    'location': 'Dublin, Irland',
+                    'period': 'August 2022 – Juni 2023',
+                    'responsibilities': [
+                        'Entwicklung und Leitung des Prozesssicherheitsmanagementsystems für eine Seveso-Anlage der oberen Klasse',
+                        'Durchführung von Bewertungen wesentlicher Änderungen gemäß COMAH-Vorschriften 2015',
+                        'Aktualisierung und Wartung des Standort-Sicherheitsberichts und Explosionsschutzdokuments',
+                        'Leitung von Prozesssicherheitsrisikobewertungen einschließlich HAZOP- und LOPA-Studien',
+                        'Verwaltung von Management of Change (MoC)-Verfahren für Anlagen-, Prozess- und Systemänderungen',
+                        'Bereitstellung von ATEX-Inspektionsüberprüfungen und EHS-Unterstützung für Kapitalinvestitionsprojekte',
+                        'Unterstützung des Notfallteam-Managements und Notfallplanungsaktivitäten'
+                    ]
+                },
+                {
+                    'title': 'Sicherheitsspezialist & Umweltingenieur',
+                    'company': 'Seyir Akademi (Führende Prozesssicherheitsberatung)',
+                    'location': 'Istanbul, Türkei',
+                    'period': 'Februar 2019 – Oktober 2021',
+                    'responsibilities': [
+                        'SEVESO-Beratung für über 30 Kunden in chemischer Produktion, Pharmazie und Agrarchemie',
+                        'Erstellung von Explosionsschutzdokumenten und Sicherheitsberichten nach europäischen Standards',
+                        'Durchführung von ATEX-Geräte-Standortaudits, Inspektionen und Überprüfungen der Gefahrenbereichsklassifizierung',
+                        'Durchführung von Arbeitssicherheits-Feldaudits und umfassenden Risikobewertungen',
+                        'Verwaltung von Explosionsmodellierung und Konsequenzanalyse für Standorte mit erheblichen Gefahren',
+                        'Anwendung von ISO 60079-Standards für die Auswahl von Geräten für explosive Atmosphären'
+                    ]
+                },
+                {
+                    'title': 'Sicherheitsspezialist',
+                    'company': 'Momentum OSGB',
+                    'location': 'Türkei',
+                    'period': 'September 2017 – Februar 2019',
+                    'responsibilities': [
+                        'Bereitstellung von Arbeitssicherheitsexpertise-Beratung in mehreren Branchen einschließlich Chemieanlagen, Bauwesen, Fertigung und Gesundheitswesen',
+                        'Durchführung von Umweltrisikobewertungen und Sicherheits-Compliance-Audits',
+                        'Entwicklung von Sicherheitsmanagementsystemen für chemische Lager- und Verarbeitungsanlagen'
+                    ]
+                },
+                {
+                    'title': 'Sicherheitsmess- & Emissionsberichtsspezialist',
+                    'company': 'Testmer Measurement And Testing Services Ltd.',
+                    'location': 'Türkei',
+                    'period': 'Juli 2016 – September 2017',
+                    'responsibilities': [
+                        'Durchführung von Arbeitsgesundheits- und Sicherheitsumgebungsmessungen und Expositionsbewertungen',
+                        'Erstellung von Emissions- und Geruchsmessberichten gemäß internationalen Standards'
+                    ]
+                },
+                {
+                    'title': 'Umweltingenieur',
+                    'company': 'Metreküp Treatment Technologies',
+                    'location': 'Türkei',
+                    'period': 'April 2014 – April 2015',
+                    'responsibilities': [
+                        'Planung von Abwasserbehandlungsanlagen für Industrieanlagen',
+                        'Bereitstellung von Wasserbehandlungsberatung für 13 Fabriken in verschiedenen Branchen'
+                    ]
+                }
+            ],
+            
+            'education_title': 'AUSBILDUNG',
+            'education': [
+                {
+                    'degree': 'Master-Abschluss (mit Thesis)',
+                    'field': 'Arbeitsschutz und Arbeitssicherheit',
+                    'institution': 'Üsküdar Universität, Institut für Gesundheitswissenschaften',
+                    'location': 'Istanbul, Türkei',
+                    'period': 'September 2018 – Februar 2020',
+                    'thesis': 'Thesis: "Die Notwendigkeit der Verwendung von Maschinensicherheitsausrüstung anstelle von Sicherheitsausrüstung in Personenaufzügen und Relevanz der Anwendbarkeit von ISO-Standards zur Risikobewertung"'
+                },
+                {
+                    'degree': 'Master-Abschluss (ohne Thesis)',
+                    'field': 'Arbeitsschutz und Arbeitssicherheit',
+                    'institution': 'Yeni Yüzyıl Universität, Institut für Gesundheitswissenschaften',
+                    'location': 'Istanbul, Türkei',
+                    'period': 'September 2016 – Februar 2017',
+                    'thesis': None
+                },
+                {
+                    'degree': 'Bachelor of Science',
+                    'field': 'Umweltingenieurwesen (mit 1 Jahr Englisch-Vorbereitungsklasse)',
+                    'institution': 'Ondokuz Mayıs Universität, Fakultät für Ingenieurwesen',
+                    'location': 'Samsun, Türkei',
+                    'period': 'September 2008 – Juli 2013',
+                    'thesis': None
+                }
+            ],
+            
+            'memberships_title': 'BERUFSMITGLIEDSCHAFTEN',
+            'memberships': [
+                'American Institute of Chemical Engineers (AIChE)',
+                'Engineers Ireland',
+                'Kammer der Umweltingenieure, Türkei'
+            ],
+            
+            'skills_title': 'TECHNISCHE FÄHIGKEITEN & SOFTWARE',
+            'skills': [
+                ['Prozesssicherheit', 'DNV PHAST, Gexcon Risikomodellierung, HAZOP-Moderation, LOPA-Analyse, Sicherheitsberichtserstellung'],
+                ['Regulatorische Compliance', 'SEVESO-Richtlinie III, COMAH-Vorschriften 2015, ATEX-Richtlinie 2014/34/EU, ISO 60079, ISO 45001, ISO 14001'],
+                ['Ingenieurwesen', 'AutoCAD 2D/3D, Rhino 3D, Abwasserbehandlungsplanung, Explosionsschutzsysteme'],
+                ['Sprachen', 'Türkisch (Muttersprache), Englisch (Professionelle Arbeitskompetenz)']
+            ]
+        },
+        'fr': {
+            'name': 'SABIT BURAK CEBECİ',
+            'title': 'Consultant en Risques | Spécialiste SEVESO & ATEX',
+            'subtitle': 'Ingénierie Environnementale et Sécurité des Procédés',
+            'email': 'sabitburakcebeci@gmail.com',
+            'phone': '+353 83 084 2944',
+            'location': 'Dublin, Irlande',
+            'linkedin': 'linkedin.com/in/sbtbrkcbc',
+            
+            'profile_title': 'PROFIL PROFESSIONNEL',
+            'profile': 'Ingénieur Environnemental Senior et Spécialiste de la Sécurité des Procédés avec plus de 13 ans d\'expérience progressive en conformité SEVESO, réglementations ATEX et protection contre les explosions pour les sites Seveso Seuil Haut. Expertise avérée dans le développement de systèmes de gestion de la sécurité des procédés, la conduite d\'études HAZOP et la fourniture de conseil basé sur les risques pour les industries pharmaceutiques et chimiques. Solide formation technique en modélisation des conséquences (DNV PHAST, Gexcon), conformité réglementaire (COMAH, Directives UE) et préparation de rapports de sécurité. Actuellement au service de clients internationaux de haut niveau incluant Intel et des fabricants pharmaceutiques de premier plan.',
+            
+            'competencies_title': 'COMPÉTENCES PRINCIPALES',
+            'competencies': [
+                ['Conformité Directive SEVESO', 'Certification & Inspection Équipements ATEX', 'Documentation Protection Explosions'],
+                ['Gestion Sécurité Procédés (PSM)', 'Études HAZOP & Analyse LOPA', 'Règlements COMAH 2015'],
+                ['Modélisation Conséquences DNV PHAST', 'Évaluation & Atténuation Risques', 'Préparation Rapports Sécurité'],
+                ['ISO 60079, ISO 45001, ISO 14001', 'Planification Intervention Urgence', 'Rédaction Rapports Techniques']
+            ],
+            
+            'certifications_title': 'CERTIFICATIONS & FORMATION PROFESSIONNELLES',
+            'certifications': [
+                'Rédaction de Rapports Techniques – Engineers Ireland (Avr 2024)',
+                'Formation Logiciel Modélisation Conséquences DNV SA-01 – DNV (Jan 2024)',
+                'Logiciel Modélisation Effets/Risque & Courbes Risque – Gexcon (Nov 2023)',
+                'LOPA - Layer of Protection Analysis – CCPS',
+                'Certification Formation HAZOP – Seyir Akademi (2019)',
+                'Certification Équipements ATEX – Seyir Akademi (2019)',
+                'Formation Document Protection Explosions – Seyir Akademi (2019)',
+                'Formation Standards ISO 60079 – Seyir Akademi',
+                'Certification ISO 45001:2018 SGSST',
+                'Systèmes de Gestion Environnementale ISO 14001'
+            ],
+            
+            'experience_title': 'EXPÉRIENCE PROFESSIONNELLE',
+            'experience': [
+                {
+                    'title': 'Consultant en Risques Senior',
+                    'company': 'AWN Consulting Ltd.',
+                    'location': 'Dublin, Irlande',
+                    'period': 'Août 2023 – Présent',
+                    'responsibilities': [
+                        'Fournir des services de conseil en sécurité des procédés et risques environnementaux pour les sites Seveso Seuil Haut en Irlande et en Europe',
+                        'Conduire des services de conseil SEVESO incluant la préparation de rapports de sécurité, les évaluations de modifications significatives et les révisions de conformité réglementaire',
+                        'Préparer et mettre à jour les Documents de Protection contre les Explosions (EPD) en utilisant le logiciel de modélisation des conséquences DNV PHAST',
+                        'Soutenir des clients de haut niveau incluant Intel et des fabricants pharmaceutiques dans l\'atteinte de la conformité COMAH',
+                        'Fournir la rédaction de rapports techniques et le soutien aux soumissions réglementaires à l\'EPA et HSA irlandais'
+                    ]
+                },
+                {
+                    'title': 'Ingénieur Sécurité des Procédés',
+                    'company': 'Guerbet (Fabrication Pharmaceutique)',
+                    'location': 'Dublin, Irlande',
+                    'period': 'Août 2022 – Juin 2023',
+                    'responsibilities': [
+                        'Développé et dirigé le Système de Gestion de la Sécurité des Procédés pour un site Seveso Seuil Haut',
+                        'Conduit des évaluations de modifications significatives selon les Règlements COMAH 2015',
+                        'Mis à jour et maintenu le Rapport de Sécurité du site et le Document de Protection contre les Explosions',
+                        'Dirigé les Évaluations de Risques de Sécurité des Procédés incluant les études HAZOP et LOPA',
+                        'Géré les procédures de Gestion du Changement (MoC) pour les modifications d\'installation, de procédé et de système',
+                        'Fourni des révisions d\'inspection ATEX et un soutien EHS pour les projets d\'investissement',
+                        'Assisté la gestion de l\'Équipe d\'Intervention d\'Urgence et les activités de planification d\'urgence'
+                    ]
+                },
+                {
+                    'title': 'Spécialiste Sécurité & Ingénieur Environnemental',
+                    'company': 'Seyir Akademi (Cabinet Leader en Sécurité des Procédés)',
+                    'location': 'Istanbul, Turquie',
+                    'period': 'Février 2019 – Octobre 2021',
+                    'responsibilities': [
+                        'Fourni des services de conseil SEVESO pour plus de 30 clients en production chimique, pharmaceutique et chimie agricole',
+                        'Préparé des Documents de Protection contre les Explosions et des Rapports de Sécurité appliquant les standards européens',
+                        'Conduit des audits sur site d\'équipements ATEX, inspections et révisions de classification de zones dangereuses',
+                        'Effectué des audits sur site de sécurité au travail et des évaluations complètes des risques',
+                        'Géré la modélisation d\'explosion et l\'analyse des conséquences pour les sites à risques majeurs',
+                        'Appliqué les standards ISO 60079 pour la sélection d\'équipements en atmosphères explosives'
+                    ]
+                },
+                {
+                    'title': 'Spécialiste Sécurité',
+                    'company': 'Momentum OSGB',
+                    'location': 'Turquie',
+                    'period': 'Septembre 2017 – Février 2019',
+                    'responsibilities': [
+                        'Fourni des services de conseil en expertise de sécurité au travail dans plusieurs industries incluant les usines chimiques, construction, fabrication et santé',
+                        'Conduit des évaluations des risques environnementaux et des audits de conformité sécurité',
+                        'Développé des systèmes de gestion de la sécurité pour les installations de stockage et traitement chimique'
+                    ]
+                },
+                {
+                    'title': 'Spécialiste Mesures Sécurité & Reporting Émissions',
+                    'company': 'Testmer Measurement And Testing Services Ltd.',
+                    'location': 'Turquie',
+                    'period': 'Juillet 2016 – Septembre 2017',
+                    'responsibilities': [
+                        'Conduit des mesures d\'environnement de santé et sécurité au travail et des évaluations d\'exposition',
+                        'Préparé des rapports de mesure d\'émissions et d\'odeurs conformément aux standards internationaux'
+                    ]
+                },
+                {
+                    'title': 'Ingénieur Environnemental',
+                    'company': 'Metreküp Treatment Technologies',
+                    'location': 'Turquie',
+                    'period': 'Avril 2014 – Avril 2015',
+                    'responsibilities': [
+                        'Conçu des stations de traitement des eaux usées pour les installations industrielles',
+                        'Fourni des services de conseil en traitement de l\'eau pour 13 usines dans diverses industries'
+                    ]
+                }
+            ],
+            
+            'education_title': 'FORMATION',
+            'education': [
+                {
+                    'degree': 'Master (avec Thèse)',
+                    'field': 'Santé et Sécurité au Travail',
+                    'institution': 'Université d\'Üsküdar, Institut des Sciences de la Santé',
+                    'location': 'Istanbul, Turquie',
+                    'period': 'Septembre 2018 – Février 2020',
+                    'thesis': 'Thèse: "La Nécessité d\'Utiliser des Équipements de Sécurité Machine au Lieu des Équipements de Sécurité Utilisés dans les Ascenseurs de Passagers et Pertinence de la Comparaison d\'Applicabilité des Standards ISO d\'Évaluation des Risques"'
+                },
+                {
+                    'degree': 'Master (sans Thèse)',
+                    'field': 'Santé et Sécurité au Travail',
+                    'institution': 'Université Yeni Yüzyıl, Institut des Sciences de la Santé',
+                    'location': 'Istanbul, Turquie',
+                    'period': 'Septembre 2016 – Février 2017',
+                    'thesis': None
+                },
+                {
+                    'degree': 'Licence en Sciences',
+                    'field': 'Ingénierie Environnementale (avec 1 An de Classe Préparatoire Anglais)',
+                    'institution': 'Université Ondokuz Mayıs, Faculté d\'Ingénierie',
+                    'location': 'Samsun, Turquie',
+                    'period': 'Septembre 2008 – Juillet 2013',
+                    'thesis': None
+                }
+            ],
+            
+            'memberships_title': 'AFFILIATIONS PROFESSIONNELLES',
+            'memberships': [
+                'American Institute of Chemical Engineers (AIChE)',
+                'Engineers Ireland',
+                'Chambre des Ingénieurs Environnementaux, Turquie'
+            ],
+            
+            'skills_title': 'COMPÉTENCES TECHNIQUES & LOGICIELS',
+            'skills': [
+                ['Sécurité Procédés', 'DNV PHAST, Modélisation Risque Gexcon, Animation HAZOP, Analyse LOPA, Rédaction Rapports Sécurité'],
+                ['Conformité Réglementaire', 'Directive SEVESO III, Règlements COMAH 2015, Directive ATEX 2014/34/UE, ISO 60079, ISO 45001, ISO 14001'],
+                ['Ingénierie', 'AutoCAD 2D/3D, Rhino 3D, Conception Traitement Eaux Usées, Systèmes Protection Explosions'],
+                ['Langues', 'Turc (Langue Maternelle), Anglais (Compétence Professionnelle)']
+            ]
+        },
+        'es': {
+            'name': 'SABIT BURAK CEBECİ',
+            'title': 'Consultor de Riesgos | Especialista SEVESO y ATEX',
+            'subtitle': 'Ingeniería Ambiental y Seguridad de Procesos',
+            'email': 'sabitburakcebeci@gmail.com',
+            'phone': '+353 83 084 2944',
+            'location': 'Dublín, Irlanda',
+            'linkedin': 'linkedin.com/in/sbtbrkcbc',
+            
+            'profile_title': 'PERFIL PROFESIONAL',
+            'profile': 'Ingeniero Ambiental Senior y Especialista en Seguridad de Procesos con más de 13 años de experiencia progresiva en cumplimiento SEVESO, regulaciones ATEX y protección contra explosiones para instalaciones Seveso de Nivel Superior. Experiencia comprobada en el desarrollo de sistemas de gestión de seguridad de procesos, realización de estudios HAZOP y prestación de consultoría basada en riesgos para las industrias farmacéutica y química. Sólida formación técnica en modelado de consecuencias (DNV PHAST, Gexcon), cumplimiento normativo (COMAH, Directivas UE) y preparación de informes de seguridad. Actualmente al servicio de clientes internacionales de alto perfil como Intel y fabricantes farmacéuticos líderes.',
+            
+            'competencies_title': 'COMPETENCIAS PRINCIPALES',
+            'competencies': [
+                ['Cumplimiento Directiva SEVESO', 'Certificación e Inspección Equipos ATEX', 'Documentación Protección Explosiones'],
+                ['Gestión Seguridad Procesos (PSM)', 'Estudios HAZOP y Análisis LOPA', 'Regulaciones COMAH 2015'],
+                ['Modelado Consecuencias DNV PHAST', 'Evaluación y Mitigación de Riesgos', 'Preparación Informes Seguridad'],
+                ['ISO 60079, ISO 45001, ISO 14001', 'Planificación Respuesta Emergencias', 'Redacción Informes Técnicos']
+            ],
+            
+            'certifications_title': 'CERTIFICACIONES Y FORMACIÓN PROFESIONAL',
+            'certifications': [
+                'Redacción de Informes Técnicos – Engineers Ireland (Abr 2024)',
+                'Formación Software Modelado Consecuencias DNV SA-01 – DNV (Ene 2024)',
+                'Software Modelado Efectos/Riesgo y Curvas de Riesgo – Gexcon (Nov 2023)',
+                'LOPA - Layer of Protection Analysis – CCPS',
+                'Certificación Formación HAZOP – Seyir Akademi (2019)',
+                'Certificación Equipos ATEX – Seyir Akademi (2019)',
+                'Formación Documento Protección Explosiones – Seyir Akademi (2019)',
+                'Formación Estándares ISO 60079 – Seyir Akademi',
+                'Certificación ISO 45001:2018 SGSSO',
+                'Sistemas de Gestión Ambiental ISO 14001'
+            ],
+            
+            'experience_title': 'EXPERIENCIA PROFESIONAL',
+            'experience': [
+                {
+                    'title': 'Consultor de Riesgos Senior',
+                    'company': 'AWN Consulting Ltd.',
+                    'location': 'Dublín, Irlanda',
+                    'period': 'Agosto 2023 – Presente',
+                    'responsibilities': [
+                        'Proporcionar consultoría en seguridad de procesos y riesgos ambientales para instalaciones Seveso de Nivel Superior en Irlanda y Europa',
+                        'Realizar servicios de consultoría SEVESO incluyendo preparación de informes de seguridad, evaluaciones de modificaciones significativas y revisiones de cumplimiento normativo',
+                        'Preparar y actualizar Documentos de Protección contra Explosiones (EPD) utilizando software de modelado de consecuencias DNV PHAST',
+                        'Apoyar a clientes de alto perfil como Intel y fabricantes farmacéuticos en el logro del cumplimiento COMAH',
+                        'Proporcionar redacción de informes técnicos y apoyo en presentaciones normativas a la EPA y HSA irlandesas'
+                    ]
+                },
+                {
+                    'title': 'Ingeniero de Seguridad de Procesos',
+                    'company': 'Guerbet (Fabricación Farmacéutica)',
+                    'location': 'Dublín, Irlanda',
+                    'period': 'Agosto 2022 – Junio 2023',
+                    'responsibilities': [
+                        'Desarrollado y dirigido el Sistema de Gestión de Seguridad de Procesos para una instalación Seveso de Nivel Superior',
+                        'Realizado evaluaciones de modificaciones significativas según Regulaciones COMAH 2015',
+                        'Actualizado y mantenido el Informe de Seguridad de la instalación y el Documento de Protección contra Explosiones',
+                        'Dirigido Evaluaciones de Riesgo de Seguridad de Procesos incluyendo estudios HAZOP y LOPA',
+                        'Gestionado procedimientos de Gestión del Cambio (MoC) para modificaciones de planta, proceso y sistema',
+                        'Proporcionado revisiones de inspección ATEX y apoyo EHS para proyectos de inversión de capital',
+                        'Asistido en la gestión del Equipo de Respuesta a Emergencias y actividades de planificación de emergencias'
+                    ]
+                },
+                {
+                    'title': 'Especialista en Seguridad e Ingeniero Ambiental',
+                    'company': 'Seyir Akademi (Consultoría Líder en Seguridad de Procesos)',
+                    'location': 'Estambul, Turquía',
+                    'period': 'Febrero 2019 – Octubre 2021',
+                    'responsibilities': [
+                        'Proporcionado consultoría SEVESO para más de 30 clientes en producción química, farmacéutica y química agrícola',
+                        'Preparado Documentos de Protección contra Explosiones e Informes de Seguridad aplicando estándares europeos',
+                        'Realizado auditorías de equipos ATEX en instalaciones, inspecciones y revisiones de clasificación de áreas peligrosas',
+                        'Ejecutado auditorías de campo de seguridad ocupacional y evaluaciones de riesgo exhaustivas',
+                        'Gestionado modelado de explosiones y análisis de consecuencias para instalaciones con riesgos mayores',
+                        'Aplicado estándares ISO 60079 para selección de equipos en atmósferas explosivas'
+                    ]
+                },
+                {
+                    'title': 'Especialista en Seguridad',
+                    'company': 'Momentum OSGB',
+                    'location': 'Turquía',
+                    'period': 'Septiembre 2017 – Febrero 2019',
+                    'responsibilities': [
+                        'Proporcionado consultoría experta en seguridad ocupacional en múltiples industrias incluyendo plantas químicas, construcción, fabricación y salud',
+                        'Realizado evaluaciones de riesgo ambiental y auditorías de cumplimiento de seguridad',
+                        'Desarrollado sistemas de gestión de seguridad para instalaciones de almacenamiento y procesamiento químico'
+                    ]
+                },
+                {
+                    'title': 'Especialista en Medición de Seguridad y Reporte de Emisiones',
+                    'company': 'Testmer Measurement And Testing Services Ltd.',
+                    'location': 'Turquía',
+                    'period': 'Julio 2016 – Septiembre 2017',
+                    'responsibilities': [
+                        'Realizado mediciones de ambiente de salud y seguridad ocupacional y evaluaciones de exposición',
+                        'Preparado informes de medición de emisiones y olores conforme a estándares internacionales'
+                    ]
+                },
+                {
+                    'title': 'Ingeniero Ambiental',
+                    'company': 'Metreküp Treatment Technologies',
+                    'location': 'Turquía',
+                    'period': 'Abril 2014 – Abril 2015',
+                    'responsibilities': [
+                        'Diseñado plantas de tratamiento de aguas residuales para instalaciones industriales',
+                        'Proporcionado consultoría en tratamiento de agua para 13 fábricas en diversas industrias'
+                    ]
+                }
+            ],
+            
+            'education_title': 'FORMACIÓN',
+            'education': [
+                {
+                    'degree': 'Máster (con Tesis)',
+                    'field': 'Salud y Seguridad Ocupacional',
+                    'institution': 'Universidad Üsküdar, Instituto de Ciencias de la Salud',
+                    'location': 'Estambul, Turquía',
+                    'period': 'Septiembre 2018 – Febrero 2020',
+                    'thesis': 'Tesis: "La Necesidad de Utilizar Equipos de Seguridad de Máquinas en Lugar de Equipos de Seguridad Utilizados en Ascensores de Pasajeros y Relevancia de la Comparación de Aplicabilidad de Estándares ISO de Evaluación de Riesgos"'
+                },
+                {
+                    'degree': 'Máster (sin Tesis)',
+                    'field': 'Salud y Seguridad Ocupacional',
+                    'institution': 'Universidad Yeni Yüzyıl, Instituto de Ciencias de la Salud',
+                    'location': 'Estambul, Turquía',
+                    'period': 'Septiembre 2016 – Febrero 2017',
+                    'thesis': None
+                },
+                {
+                    'degree': 'Licenciatura en Ciencias',
+                    'field': 'Ingeniería Ambiental (con 1 Año de Clase Preparatoria de Inglés)',
+                    'institution': 'Universidad Ondokuz Mayıs, Facultad de Ingeniería',
+                    'location': 'Samsun, Turquía',
+                    'period': 'Septiembre 2008 – Julio 2013',
+                    'thesis': None
+                }
+            ],
+            
+            'memberships_title': 'AFILIACIONES PROFESIONALES',
+            'memberships': [
+                'American Institute of Chemical Engineers (AIChE)',
+                'Engineers Ireland',
+                'Cámara de Ingenieros Ambientales, Turquía'
+            ],
+            
+            'skills_title': 'HABILIDADES TÉCNICAS Y SOFTWARE',
+            'skills': [
+                ['Seguridad Procesos', 'DNV PHAST, Modelado Riesgo Gexcon, Facilitación HAZOP, Análisis LOPA, Redacción Informes Seguridad'],
+                ['Cumplimiento Normativo', 'Directiva SEVESO III, Regulaciones COMAH 2015, Directiva ATEX 2014/34/UE, ISO 60079, ISO 45001, ISO 14001'],
+                ['Ingeniería', 'AutoCAD 2D/3D, Rhino 3D, Diseño Tratamiento Aguas Residuales, Sistemas Protección Explosiones'],
+                ['Idiomas', 'Turco (Nativo), Inglés (Competencia Profesional)']
+            ]
+        },
+        'se': {
+            'name': 'SABIT BURAK CEBECİ',
+            'title': 'Riskkonsult | SEVESO & ATEX Specialist',
+            'subtitle': 'Miljö- och Processsäkerhetsteknik',
+            'email': 'sabitburakcebeci@gmail.com',
+            'phone': '+353 83 084 2944',
+            'location': 'Dublin, Irland',
+            'linkedin': 'linkedin.com/in/sbtbrkcbc',
+            
+            'profile_title': 'PROFESSIONELL PROFIL',
+            'profile': 'Senior miljöingenjör och processsäkerhetsspecialist med 13+ års progressiv erfarenhet av SEVESO-efterlevnad, ATEX-förordningar och explosionsskydd för Seveso-anläggningar i övre klass. Beprövad expertis inom utveckling av processsäkerhetshanteringssystem, genomförande av HAZOP-studier och tillhandahållande av riskbaserad rådgivning för läkemedels- och kemiindustrin. Stark teknisk bakgrund inom konsekvensmodellering (DNV PHAST, Gexcon), regelefterlevnad (COMAH, EU-direktiv) och säkerhetsrapportförberedelse. För närvarande tjänar högt profilerade internationella kunder inklusive Intel och ledande läkemedelsproducenter.',
+            
+            'competencies_title': 'KÄRNKOMPETENSER',
+            'competencies': [
+                ['SEVESO-direktivefterlevnad', 'ATEX-utrustningscertifiering & Inspektion', 'Explosionsskyddsdokumentation'],
+                ['Processsäkerhetshantering (PSM)', 'HAZOP-studier & LOPA-analys', 'COMAH-förordningar 2015'],
+                ['DNV PHAST Konsekvensmodellering', 'Riskbedömning & Riskreducering', 'Säkerhetsrapportförberedelse'],
+                ['ISO 60079, ISO 45001, ISO 14001', 'Nödinsatsplanering', 'Teknisk Rapportskrivning']
+            ],
+            
+            'certifications_title': 'PROFESSIONELLA CERTIFIERINGAR & UTBILDNING',
+            'certifications': [
+                'Teknisk Rapportskrivning – Engineers Ireland (Apr 2024)',
+                'DNV SA-01 Konsekvensmodelleringsprogramutbildning – DNV (Jan 2024)',
+                'Effekt-/Risk- & Riskkurvsmodelleringsprogram – Gexcon (Nov 2023)',
+                'LOPA - Layer of Protection Analysis – CCPS',
+                'HAZOP-utbildningscertifiering – Seyir Akademi (2019)',
+                'ATEX-utrustningscertifiering – Seyir Akademi (2019)',
+                'Explosionsskyddsdokumentutbildning – Seyir Akademi (2019)',
+                'ISO 60079 Standardsutbildning – Seyir Akademi',
+                'ISO 45001:2018 OHSMS-certifiering',
+                'ISO 14001 Miljöledningssystem'
+            ],
+            
+            'experience_title': 'PROFESSIONELL ERFARENHET',
+            'experience': [
+                {
+                    'title': 'Senior Riskkonsult',
+                    'company': 'AWN Consulting Ltd.',
+                    'location': 'Dublin, Irland',
+                    'period': 'Augusti 2023 – Nuvarande',
+                    'responsibilities': [
+                        'Tillhandahålla processsäkerhets- och miljöriskkonsultation för Seveso-anläggningar i övre klass i Irland och Europa',
+                        'Genomföra SEVESO-konsulttjänster inklusive säkerhetsrapportförberedelse, betydande modifieringsbedömningar och regelefterlevnadsgranskningar',
+                        'Förbereda och uppdatera explosionsskyddsdokument (EPD) med hjälp av DNV PHAST konsekvensmodelleringsprogram',
+                        'Stödja högt profilerade kunder inklusive Intel och läkemedelsproducenter för att uppnå COMAH-efterlevnad',
+                        'Tillhandahålla teknisk rapportskrivning och stöd för myndighetsinlämningar till irländska EPA och HSA'
+                    ]
+                },
+                {
+                    'title': 'Processsäkerhetsingenjör',
+                    'company': 'Guerbet (Läkemedelsproduktion)',
+                    'location': 'Dublin, Irland',
+                    'period': 'Augusti 2022 – Juni 2023',
+                    'responsibilities': [
+                        'Utvecklade och ledde processsäkerhetshanteringssystemet för en Seveso-anläggning i övre klass',
+                        'Genomförde bedömningar av betydande modifieringar enligt COMAH-förordningar 2015',
+                        'Uppdaterade och underhöll anläggningens säkerhetsrapport och explosionsskyddsdokument',
+                        'Ledde processsäkerhetsriskbedömningar inklusive HAZOP- och LOPA-studier',
+                        'Hanterade förändringsledningsrutiner (MoC) för anläggnings-, process- och systemmodifieringar',
+                        'Tillhandahöll ATEX-inspektionsgranskningar och EHS-stöd för kapitalinvesteringsprojekt',
+                        'Assisterade nödinsatsteamsledning och nödplaneringsaktiviteter'
+                    ]
+                },
+                {
+                    'title': 'Säkerhetsspecialist & Miljöingenjör',
+                    'company': 'Seyir Akademi (Ledande Processsäkerhetskonsult)',
+                    'location': 'Istanbul, Turkiet',
+                    'period': 'Februari 2019 – Oktober 2021',
+                    'responsibilities': [
+                        'Levererade SEVESO-konsultation för 30+ kunder inom kemisk produktion, läkemedel och jordbrukskemikalier',
+                        'Förberedde explosionsskyddsdokument och säkerhetsrapporter med tillämpning av europeiska standarder',
+                        'Genomförde ATEX-utrustningsanläggningsrevisioner, inspektioner och granskningar av farlig områdesklassificering',
+                        'Utförde arbetsmiljösäkerhetsfältrevisioner och omfattande riskbedömningar',
+                        'Hanterade explosionsmodellering och konsekvensanalys för anläggningar med stor risk',
+                        'Tillämpade ISO 60079-standarder för val av utrustning för explosiv atmosfär'
+                    ]
+                },
+                {
+                    'title': 'Säkerhetsspecialist',
+                    'company': 'Momentum OSGB',
+                    'location': 'Turkiet',
+                    'period': 'September 2017 – Februari 2019',
+                    'responsibilities': [
+                        'Tillhandahöll expertis inom arbetsmiljösäkerhet för flera branscher inklusive kemiska anläggningar, byggande, tillverkning och hälsovård',
+                        'Genomförde miljöriskbedömningar och säkerhetsefterlevnadsrevisioner',
+                        'Utvecklade säkerhetshanteringssystem för kemisk lagrings- och bearbetningsanläggningar'
+                    ]
+                },
+                {
+                    'title': 'Säkerhetsmätnings- & Emissionsrapporteringsspecialist',
+                    'company': 'Testmer Measurement And Testing Services Ltd.',
+                    'location': 'Turkiet',
+                    'period': 'Juli 2016 – September 2017',
+                    'responsibilities': [
+                        'Genomförde arbetshälso- och säkerhetsmiljömätningar och exponeringsbedömningar',
+                        'Förberedde emissions- och luktmätningsrapporter i enlighet med internationella standarder'
+                    ]
+                },
+                {
+                    'title': 'Miljöingenjör',
+                    'company': 'Metreküp Treatment Technologies',
+                    'location': 'Turkiet',
+                    'period': 'April 2014 – April 2015',
+                    'responsibilities': [
+                        'Designade avloppsvattenreningsanläggningar för industriella anläggningar',
+                        'Tillhandahöll vattenbehandlingskonsultation för 13 fabriker inom olika branscher'
+                    ]
+                }
+            ],
+            
+            'education_title': 'UTBILDNING',
+            'education': [
+                {
+                    'degree': 'Masterexamen (med Avhandling)',
+                    'field': 'Arbetsmiljö och Säkerhet',
+                    'institution': 'Üsküdar Universitet, Hälsovetenskapsinstitutet',
+                    'location': 'Istanbul, Turkiet',
+                    'period': 'September 2018 – Februari 2020',
+                    'thesis': 'Avhandling: "Nödvändigheten att använda maskinsäkerhetsutrustning istället för säkerhetsutrustning som används i passagerarh issar och relevans av tillämpbarheten av ISO-standarder för riskbedömning"'
+                },
+                {
+                    'degree': 'Masterexamen (utan Avhandling)',
+                    'field': 'Arbetsmiljö och Säkerhet',
+                    'institution': 'Yeni Yüzyıl Universitet, Hälsovetenskapsinstitutet',
+                    'location': 'Istanbul, Turkiet',
+                    'period': 'September 2016 – Februari 2017',
+                    'thesis': None
+                },
+                {
+                    'degree': 'Kandidatexamen',
+                    'field': 'Miljöteknik (med 1 års engelsk förberedelseklass)',
+                    'institution': 'Ondokuz Mayıs Universitet, Ingenjörsfakulteten',
+                    'location': 'Samsun, Turkiet',
+                    'period': 'September 2008 – Juli 2013',
+                    'thesis': None
+                }
+            ],
+            
+            'memberships_title': 'PROFESSIONELLA MEDLEMSKAP',
+            'memberships': [
+                'American Institute of Chemical Engineers (AIChE)',
+                'Engineers Ireland',
+                'Kammaren för miljöingenjörer, Turkiet'
+            ],
+            
+            'skills_title': 'TEKNISKA FÄRDIGHETER & PROGRAMVARA',
+            'skills': [
+                ['Processsäkerhet', 'DNV PHAST, Gexcon Riskmodellering, HAZOP-facilitering, LOPA-analys, Säkerhetsrapportskrivning'],
+                ['Regelefterlevnad', 'SEVESO-direktiv III, COMAH-förordningar 2015, ATEX-direktiv 2014/34/EU, ISO 60079, ISO 45001, ISO 14001'],
+                ['Ingenjörskonst', 'AutoCAD 2D/3D, Rhino 3D, Avloppsvattenreningsdesign, Explosionsskyddssystem'],
+                ['Språk', 'Turkiska (Modersmål), Engelska (Professionell Arbetskompetens)']
+            ]
         }
     }
     
@@ -710,9 +1326,13 @@ if __name__ == "__main__":
     cv_dir = "/app/backend/static/cv"
     os.makedirs(cv_dir, exist_ok=True)
     
-    # Generate CVs in all languages
+    # Generate CVs in all 7 languages
     create_cv(f"{cv_dir}/cv_en.pdf", 'en')
     create_cv(f"{cv_dir}/cv_it.pdf", 'it')
     create_cv(f"{cv_dir}/cv_tr.pdf", 'tr')
+    create_cv(f"{cv_dir}/cv_de.pdf", 'de')
+    create_cv(f"{cv_dir}/cv_fr.pdf", 'fr')
+    create_cv(f"{cv_dir}/cv_es.pdf", 'es')
+    create_cv(f"{cv_dir}/cv_se.pdf", 'se')
     
-    print("All ATS-friendly CVs with Turkish character support generated successfully!")
+    print("All 7 ATS-friendly CVs with multilingual character support generated successfully!")
