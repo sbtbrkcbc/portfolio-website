@@ -12,10 +12,13 @@ const Header = () => {
   const [langMenuOpen, setLangMenuOpen] = useState(false);
 
   const locales = [
-    { code: 'en-ie', label: 'English (Ireland)', flag: '🇮🇪' },
-    { code: 'it-it', label: 'Italiano (Italia)', flag: '🇮🇹' },
-    { code: 'tr-tr', label: 'Türkçe (Türkiye)', flag: '🇹🇷' },
-    { code: 'en', label: 'English (Europe)', flag: '🇪🇺' }
+    { code: 'en-ie', label: 'English', flag: '🇬🇧' },
+    { code: 'de-de', label: 'Deutsch', flag: '🇩🇪' },
+    { code: 'fr-fr', label: 'Français', flag: '🇫🇷' },
+    { code: 'es-es', label: 'Español', flag: '🇪🇸' },
+    { code: 'it-it', label: 'Italiano', flag: '🇮🇹' },
+    { code: 'se-se', label: 'Svenska', flag: '🇸🇪' },
+    { code: 'tr-tr', label: 'Türkçe', flag: '🇹🇷' }
   ];
 
   const switchLocale = (newLocale) => {
