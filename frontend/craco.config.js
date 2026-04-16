@@ -1,6 +1,3 @@
-frontend/craco.config.js
-İçerik (Emergent özel kısımları temizledim):
-
 // craco.config.js
 const path = require("path");
 
