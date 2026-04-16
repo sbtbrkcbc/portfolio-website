@@ -1,8 +1,3 @@
-Dosya adı:
-
-backend/server.py
-İçerik (tümünü kopyalayın):
-
 from fastapi import FastAPI, APIRouter
 from dotenv import load_dotenv
 from starlette.middleware.cors import CORSMiddleware
