@@ -1,0 +1,51 @@
+📄 DOSYA 2: .gitignore
+GitHub'ta: "Add file" → "Create new file"
+
+Dosya adı:
+
+.gitignore
+İçerik (kopyalayın):
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
