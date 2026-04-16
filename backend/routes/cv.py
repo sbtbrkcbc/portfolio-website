@@ -1,8 +1,3 @@
-Dosya adı:
-
-backend/routes/cv.py
-İçerik:
-
 from fastapi import APIRouter, HTTPException, Query
 from fastapi.responses import FileResponse
 import os
